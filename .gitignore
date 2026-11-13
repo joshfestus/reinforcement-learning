@@ -1,0 +1,34 @@
+.venv/
+__pycache__/
+.ruff_cache/
+final-project/screenshots/
+final-project/charts/
+
+# Training runs save in-between copies of the player as they go. They are
+# kept only where the book uses them: the Q-table's in chapters 13 and 14,
+# for replay_table.py, and the Deep Q-Network's in chapter 19, for
+# film_strip.py, for run 0, which the book shows. Everywhere else each
+# run keeps its logs and best player.
+**/runs/**/table-*.json
+!chapters/ch13-table-of-good-moves/runs/**/table-*.json
+!chapters/ch14-watching-the-table/runs/**/table-*.json
+**/runs/**/network-*.pt
+!chapters/ch19-training-the-dqn/runs/seeds-dqn-full-0/network-*.pt
+
+# Each chapter folder starts as a copy of the one before, so later
+# chapters carry the logs of runs made earlier. A log is kept only in the
+# chapters whose programs read it; every chapter keeps each run's test
+# scores and best player.
+chapters/ch1[5-9]-*/runs/*table*/log.csv
+chapters/ch2[0-9]-*/runs/*table*/log.csv
+chapters/ch1[5-9]-*/runs/*sarsa*/log.csv
+chapters/ch2[0-9]-*/runs/*sarsa*/log.csv
+chapters/ch2[3-9]-*/runs/seeds-reinforce-*/log.csv
+chapters/ch2[3-9]-*/runs/seeds-actor-critic-*/log.csv
+chapters/ch2[5-9]-*/runs/seeds-ppo-*/log.csv
+chapters/ch2[5-9]-*/runs/seeds-dqn-*/log.csv
+# The landing examples are used in chapters 15 and 16 only.
+chapters/ch1[7-9]-*/data/landings.csv
+chapters/ch2[0-9]-*/data/landings.csv
+# The library's first try is compared in chapter 23 only.
+chapters/ch2[4-9]-*/runs/seeds-library-ppo-first-*/

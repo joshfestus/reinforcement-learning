@@ -1,0 +1,2101 @@
+player,run,bricks,level,frames,ending
+random,random,3,1,347,lost
+random,random,8,1,741,lost
+random,random,4,1,547,lost
+random,random,3,1,314,lost
+random,random,3,1,346,lost
+random,random,5,1,556,lost
+random,random,10,1,1127,lost
+random,random,5,1,580,lost
+random,random,3,1,362,lost
+random,random,3,1,331,lost
+random,random,3,1,336,lost
+random,random,5,1,419,lost
+random,random,3,1,320,lost
+random,random,3,1,346,lost
+random,random,5,1,593,lost
+random,random,3,1,323,lost
+random,random,3,1,342,lost
+random,random,4,1,454,lost
+random,random,3,1,362,lost
+random,random,4,1,451,lost
+random,random,3,1,324,lost
+random,random,3,1,326,lost
+random,random,4,1,432,lost
+random,random,5,1,447,lost
+random,random,5,1,554,lost
+random,random,5,1,494,lost
+random,random,3,1,322,lost
+random,random,3,1,326,lost
+random,random,3,1,357,lost
+random,random,5,1,534,lost
+random,random,3,1,338,lost
+random,random,4,1,334,lost
+random,random,3,1,337,lost
+random,random,4,1,419,lost
+random,random,5,1,617,lost
+random,random,4,1,416,lost
+random,random,6,1,526,lost
+random,random,4,1,473,lost
+random,random,3,1,322,lost
+random,random,4,1,447,lost
+random,random,4,1,434,lost
+random,random,3,1,383,lost
+random,random,5,1,614,lost
+random,random,3,1,353,lost
+random,random,3,1,312,lost
+random,random,6,1,769,lost
+random,random,6,1,667,lost
+random,random,5,1,560,lost
+random,random,4,1,333,lost
+random,random,3,1,360,lost
+random,random,6,1,550,lost
+random,random,3,1,329,lost
+random,random,9,1,889,lost
+random,random,3,1,314,lost
+random,random,3,1,332,lost
+random,random,3,1,320,lost
+random,random,3,1,341,lost
+random,random,3,1,322,lost
+random,random,5,1,445,lost
+random,random,3,1,349,lost
+random,random,3,1,325,lost
+random,random,3,1,355,lost
+random,random,5,1,529,lost
+random,random,4,1,434,lost
+random,random,3,1,334,lost
+random,random,3,1,311,lost
+random,random,4,1,443,lost
+random,random,4,1,435,lost
+random,random,3,1,350,lost
+random,random,3,1,328,lost
+random,random,3,1,324,lost
+random,random,5,1,564,lost
+random,random,6,1,755,lost
+random,random,4,1,554,lost
+random,random,3,1,350,lost
+random,random,3,1,336,lost
+random,random,3,1,328,lost
+random,random,3,1,362,lost
+random,random,3,1,341,lost
+random,random,3,1,350,lost
+random,random,3,1,322,lost
+random,random,3,1,339,lost
+random,random,5,1,463,lost
+random,random,5,1,452,lost
+random,random,6,1,546,lost
+random,random,3,1,310,lost
+random,random,3,1,328,lost
+random,random,3,1,360,lost
+random,random,4,1,473,lost
+random,random,3,1,348,lost
+random,random,3,1,324,lost
+random,random,3,1,348,lost
+random,random,3,1,330,lost
+random,random,3,1,373,lost
+random,random,4,1,424,lost
+random,random,4,1,352,lost
+random,random,3,1,350,lost
+random,random,3,1,339,lost
+random,random,4,1,348,lost
+random,random,4,1,425,lost
+chaser,chaser,192,7,42314,lost
+chaser,chaser,159,6,28749,lost
+chaser,chaser,124,5,21309,lost
+chaser,chaser,123,5,28674,lost
+chaser,chaser,168,6,21856,lost
+chaser,chaser,148,6,26479,lost
+chaser,chaser,142,5,38897,lost
+chaser,chaser,104,4,24508,lost
+chaser,chaser,119,4,22885,lost
+chaser,chaser,165,6,32364,lost
+chaser,chaser,145,6,26070,lost
+chaser,chaser,124,5,27944,lost
+chaser,chaser,95,4,17214,lost
+chaser,chaser,124,5,44244,lost
+chaser,chaser,173,7,33550,lost
+chaser,chaser,161,6,29542,lost
+chaser,chaser,122,5,19515,lost
+chaser,chaser,176,7,27057,lost
+chaser,chaser,166,6,20332,lost
+chaser,chaser,171,6,27838,lost
+chaser,chaser,99,4,20934,lost
+chaser,chaser,145,6,26269,lost
+chaser,chaser,147,6,28683,lost
+chaser,chaser,126,5,18151,lost
+chaser,chaser,173,7,34039,lost
+chaser,chaser,146,6,20781,lost
+chaser,chaser,121,5,27383,lost
+chaser,chaser,145,6,30878,lost
+chaser,chaser,145,6,19254,lost
+chaser,chaser,115,4,22805,lost
+chaser,chaser,151,6,27359,lost
+chaser,chaser,200,7,29132,lost
+chaser,chaser,147,6,33886,lost
+chaser,chaser,148,6,23838,lost
+chaser,chaser,213,8,37608,lost
+chaser,chaser,94,4,20224,lost
+chaser,chaser,145,6,24895,lost
+chaser,chaser,38,1,21371,stuck
+chaser,chaser,143,5,23196,lost
+chaser,chaser,121,5,21738,lost
+chaser,chaser,176,7,30191,lost
+chaser,chaser,209,7,33224,lost
+chaser,chaser,160,6,33356,lost
+chaser,chaser,123,5,20863,lost
+chaser,chaser,166,6,20298,lost
+chaser,chaser,151,6,31107,lost
+chaser,chaser,122,5,27947,lost
+chaser,chaser,178,7,32874,lost
+chaser,chaser,145,6,28558,lost
+chaser,chaser,122,5,22304,lost
+chaser,chaser,184,7,30836,lost
+chaser,chaser,165,6,23036,lost
+chaser,chaser,118,4,23281,lost
+chaser,chaser,211,7,25705,lost
+chaser,chaser,211,7,33587,lost
+chaser,chaser,193,7,37056,lost
+chaser,chaser,173,7,21558,lost
+chaser,chaser,196,7,33239,lost
+chaser,chaser,167,6,29009,lost
+chaser,chaser,160,6,30834,lost
+chaser,chaser,160,6,35766,lost
+chaser,chaser,38,1,20001,stuck
+chaser,chaser,124,5,23156,lost
+chaser,chaser,145,6,31624,lost
+chaser,chaser,156,6,30187,lost
+chaser,chaser,75,3,7533,lost
+chaser,chaser,173,7,24223,lost
+chaser,chaser,146,6,34859,lost
+chaser,chaser,152,6,29109,lost
+chaser,chaser,161,6,32378,lost
+chaser,chaser,167,6,27586,lost
+chaser,chaser,209,7,27104,lost
+chaser,chaser,185,7,20589,lost
+chaser,chaser,178,7,23338,lost
+chaser,chaser,156,6,27867,lost
+chaser,chaser,166,6,30594,lost
+chaser,chaser,122,5,30515,lost
+chaser,chaser,150,6,26390,lost
+chaser,chaser,198,7,35477,lost
+chaser,chaser,179,7,24020,lost
+chaser,chaser,168,6,30995,lost
+chaser,chaser,37,1,16651,stuck
+chaser,chaser,168,6,30423,lost
+chaser,chaser,182,7,29528,lost
+chaser,chaser,124,5,24243,lost
+chaser,chaser,93,4,25149,lost
+chaser,chaser,181,7,33985,lost
+chaser,chaser,121,5,19117,lost
+chaser,chaser,121,5,28887,lost
+chaser,chaser,192,7,23662,lost
+chaser,chaser,145,6,21666,lost
+chaser,chaser,177,7,27794,lost
+chaser,chaser,121,5,29186,lost
+chaser,chaser,188,7,22628,lost
+chaser,chaser,146,6,30830,lost
+chaser,chaser,164,6,32493,lost
+chaser,chaser,121,5,23033,lost
+chaser,chaser,159,6,32164,lost
+chaser,chaser,39,1,32210,stuck
+chaser,chaser,155,6,34196,lost
+predictor,predictor,174,7,49215,lost
+predictor,predictor,453,16,57321,lost
+predictor,predictor,176,7,45737,lost
+predictor,predictor,213,8,37122,lost
+predictor,predictor,265,10,39315,lost
+predictor,predictor,241,9,48101,lost
+predictor,predictor,277,10,46651,lost
+predictor,predictor,284,10,61921,lost
+predictor,predictor,199,7,48494,lost
+predictor,predictor,162,6,29469,lost
+predictor,predictor,213,8,57233,lost
+predictor,predictor,155,6,51915,lost
+predictor,predictor,213,8,42913,lost
+predictor,predictor,229,8,43080,lost
+predictor,predictor,204,7,38395,lost
+predictor,predictor,146,6,26831,lost
+predictor,predictor,242,9,54726,lost
+predictor,predictor,201,7,57485,lost
+predictor,predictor,315,11,56818,lost
+predictor,predictor,177,7,37231,lost
+predictor,predictor,209,7,36692,lost
+predictor,predictor,242,9,44592,lost
+predictor,predictor,215,8,67517,lost
+predictor,predictor,260,9,42388,lost
+predictor,predictor,242,9,51527,lost
+predictor,predictor,293,11,46512,lost
+predictor,predictor,265,10,49350,lost
+predictor,predictor,255,9,42378,lost
+predictor,predictor,266,10,54372,lost
+predictor,predictor,265,10,42355,lost
+predictor,predictor,312,11,51358,lost
+predictor,predictor,108,4,25536,lost
+predictor,predictor,242,9,45624,lost
+predictor,predictor,232,8,51230,lost
+predictor,predictor,175,7,45844,lost
+predictor,predictor,254,9,45564,lost
+predictor,predictor,132,5,27926,lost
+predictor,predictor,266,10,44171,lost
+predictor,predictor,174,7,31347,lost
+predictor,predictor,214,8,42552,lost
+predictor,predictor,241,9,49640,lost
+predictor,predictor,213,8,43986,lost
+predictor,predictor,175,7,45053,lost
+predictor,predictor,176,7,37095,lost
+predictor,predictor,237,8,50782,lost
+predictor,predictor,39,1,21673,stuck
+predictor,predictor,259,9,54511,lost
+predictor,predictor,345,13,57754,lost
+predictor,predictor,241,9,49408,lost
+predictor,predictor,183,7,45366,lost
+predictor,predictor,143,5,36178,lost
+predictor,predictor,163,6,40049,lost
+predictor,predictor,265,10,43744,lost
+predictor,predictor,229,8,49741,lost
+predictor,predictor,193,7,38204,lost
+predictor,predictor,242,9,44175,lost
+predictor,predictor,242,9,50772,lost
+predictor,predictor,242,9,38852,lost
+predictor,predictor,289,10,60023,lost
+predictor,predictor,213,8,48935,lost
+predictor,predictor,295,11,61777,lost
+predictor,predictor,245,9,50650,lost
+predictor,predictor,234,8,45083,lost
+predictor,predictor,263,9,38046,lost
+predictor,predictor,216,8,37410,lost
+predictor,predictor,213,8,53512,lost
+predictor,predictor,336,12,62117,lost
+predictor,predictor,306,11,63991,lost
+predictor,predictor,252,9,49539,lost
+predictor,predictor,174,7,43796,lost
+predictor,predictor,175,7,29572,lost
+predictor,predictor,148,6,29722,lost
+predictor,predictor,263,9,50325,lost
+predictor,predictor,269,10,35907,lost
+predictor,predictor,342,12,53293,lost
+predictor,predictor,413,15,54751,lost
+predictor,predictor,235,8,56855,lost
+predictor,predictor,318,12,49119,lost
+predictor,predictor,265,10,40391,lost
+predictor,predictor,294,11,64028,lost
+predictor,predictor,235,8,43647,lost
+predictor,predictor,317,12,64754,lost
+predictor,predictor,250,9,42517,lost
+predictor,predictor,175,7,40217,lost
+predictor,predictor,210,7,46134,lost
+predictor,predictor,38,1,20355,stuck
+predictor,predictor,168,6,36040,lost
+predictor,predictor,220,8,41424,lost
+predictor,predictor,174,7,37353,lost
+predictor,predictor,206,7,47891,lost
+predictor,predictor,216,8,51248,lost
+predictor,predictor,265,10,37753,lost
+predictor,predictor,210,7,51775,lost
+predictor,predictor,238,8,37154,lost
+predictor,predictor,229,8,40674,lost
+predictor,predictor,214,8,34293,lost
+predictor,predictor,294,11,47328,lost
+predictor,predictor,345,13,60212,lost
+predictor,predictor,291,10,56137,lost
+predictor,predictor,259,9,49220,lost
+Q-table,seeds-qtable-1,45,2,7809,lost
+Q-table,seeds-qtable-1,76,3,17241,lost
+Q-table,seeds-qtable-1,71,3,14597,lost
+Q-table,seeds-qtable-1,77,3,10990,lost
+Q-table,seeds-qtable-1,44,2,6427,lost
+Q-table,seeds-qtable-1,91,3,16768,lost
+Q-table,seeds-qtable-1,87,3,13283,lost
+Q-table,seeds-qtable-1,90,3,10719,lost
+Q-table,seeds-qtable-1,70,3,13561,lost
+Q-table,seeds-qtable-1,64,2,9130,lost
+Q-table,seeds-qtable-1,53,2,7746,lost
+Q-table,seeds-qtable-1,78,3,12010,lost
+Q-table,seeds-qtable-1,72,3,8800,lost
+Q-table,seeds-qtable-1,70,3,8349,lost
+Q-table,seeds-qtable-1,72,3,12457,lost
+Q-table,seeds-qtable-1,67,2,10700,lost
+Q-table,seeds-qtable-1,66,2,9410,lost
+Q-table,seeds-qtable-1,94,4,13205,lost
+Q-table,seeds-qtable-1,73,3,11337,lost
+Q-table,seeds-qtable-1,70,3,13294,lost
+Q-table,seeds-qtable-1,80,3,15777,lost
+Q-table,seeds-qtable-1,62,2,7139,lost
+Q-table,seeds-qtable-1,87,3,11770,lost
+Q-table,seeds-qtable-1,70,3,11529,lost
+Q-table,seeds-qtable-1,71,3,12218,lost
+Q-table,seeds-qtable-1,89,3,12599,lost
+Q-table,seeds-qtable-1,72,3,14350,lost
+Q-table,seeds-qtable-1,89,3,16093,lost
+Q-table,seeds-qtable-1,101,4,12830,lost
+Q-table,seeds-qtable-1,81,3,14159,lost
+Q-table,seeds-qtable-1,70,3,12019,lost
+Q-table,seeds-qtable-1,70,3,9919,lost
+Q-table,seeds-qtable-1,74,3,12843,lost
+Q-table,seeds-qtable-1,90,3,12821,lost
+Q-table,seeds-qtable-1,88,3,12250,lost
+Q-table,seeds-qtable-1,71,3,8851,lost
+Q-table,seeds-qtable-1,80,3,15759,lost
+Q-table,seeds-qtable-1,66,2,11455,lost
+Q-table,seeds-qtable-1,72,3,19302,lost
+Q-table,seeds-qtable-1,53,2,6870,lost
+Q-table,seeds-qtable-1,82,3,17627,lost
+Q-table,seeds-qtable-1,80,3,13287,lost
+Q-table,seeds-qtable-1,59,2,9024,lost
+Q-table,seeds-qtable-1,86,3,13438,lost
+Q-table,seeds-qtable-1,78,3,15366,lost
+Q-table,seeds-qtable-1,89,3,13631,lost
+Q-table,seeds-qtable-1,77,3,8471,lost
+Q-table,seeds-qtable-1,71,3,12002,lost
+Q-table,seeds-qtable-1,77,3,8975,lost
+Q-table,seeds-qtable-1,86,3,10278,lost
+Q-table,seeds-qtable-1,96,4,14432,lost
+Q-table,seeds-qtable-1,89,3,14907,lost
+Q-table,seeds-qtable-1,62,2,12099,lost
+Q-table,seeds-qtable-1,62,2,9033,lost
+Q-table,seeds-qtable-1,85,3,13704,lost
+Q-table,seeds-qtable-1,89,3,15631,lost
+Q-table,seeds-qtable-1,73,3,12352,lost
+Q-table,seeds-qtable-1,88,3,13251,lost
+Q-table,seeds-qtable-1,71,3,13748,lost
+Q-table,seeds-qtable-1,91,3,13501,lost
+Q-table,seeds-qtable-1,71,3,13668,lost
+Q-table,seeds-qtable-1,70,3,16313,lost
+Q-table,seeds-qtable-1,87,3,13557,lost
+Q-table,seeds-qtable-1,90,3,15477,lost
+Q-table,seeds-qtable-1,70,3,14024,lost
+Q-table,seeds-qtable-1,45,2,7640,lost
+Q-table,seeds-qtable-1,82,3,15210,lost
+Q-table,seeds-qtable-1,76,3,9450,lost
+Q-table,seeds-qtable-1,89,3,13785,lost
+Q-table,seeds-qtable-1,88,3,11418,lost
+Q-table,seeds-qtable-1,60,2,9185,lost
+Q-table,seeds-qtable-1,90,3,11439,lost
+Q-table,seeds-qtable-1,74,3,11278,lost
+Q-table,seeds-qtable-1,89,3,9511,lost
+Q-table,seeds-qtable-1,66,2,12261,lost
+Q-table,seeds-qtable-1,86,3,7585,lost
+Q-table,seeds-qtable-1,91,3,15419,lost
+Q-table,seeds-qtable-1,71,3,16209,lost
+Q-table,seeds-qtable-1,83,3,9950,lost
+Q-table,seeds-qtable-1,71,3,12476,lost
+Q-table,seeds-qtable-1,63,2,10863,lost
+Q-table,seeds-qtable-1,72,3,7888,lost
+Q-table,seeds-qtable-1,59,2,11109,lost
+Q-table,seeds-qtable-1,78,3,14107,lost
+Q-table,seeds-qtable-1,91,3,14389,lost
+Q-table,seeds-qtable-1,90,3,17523,lost
+Q-table,seeds-qtable-1,70,3,11883,lost
+Q-table,seeds-qtable-1,74,3,10055,lost
+Q-table,seeds-qtable-1,79,3,12423,lost
+Q-table,seeds-qtable-1,93,4,11796,lost
+Q-table,seeds-qtable-1,66,2,9712,lost
+Q-table,seeds-qtable-1,78,3,21899,lost
+Q-table,seeds-qtable-1,73,3,8316,lost
+Q-table,seeds-qtable-1,78,3,12473,lost
+Q-table,seeds-qtable-1,72,3,16175,lost
+Q-table,seeds-qtable-1,65,2,6947,lost
+Q-table,seeds-qtable-1,60,2,8601,lost
+Q-table,seeds-qtable-1,72,3,9631,lost
+Q-table,seeds-qtable-1,61,2,16467,lost
+Q-table,seeds-qtable-1,67,2,10470,lost
+Q-table,seeds-qtable-2,89,3,10573,lost
+Q-table,seeds-qtable-2,110,4,8940,lost
+Q-table,seeds-qtable-2,91,3,14173,lost
+Q-table,seeds-qtable-2,89,3,16541,lost
+Q-table,seeds-qtable-2,90,3,14464,lost
+Q-table,seeds-qtable-2,95,4,9306,lost
+Q-table,seeds-qtable-2,88,3,12515,lost
+Q-table,seeds-qtable-2,90,3,11005,lost
+Q-table,seeds-qtable-2,87,3,9138,lost
+Q-table,seeds-qtable-2,76,3,9933,lost
+Q-table,seeds-qtable-2,87,3,13785,lost
+Q-table,seeds-qtable-2,87,3,10632,lost
+Q-table,seeds-qtable-2,75,3,10485,lost
+Q-table,seeds-qtable-2,78,3,9925,lost
+Q-table,seeds-qtable-2,80,3,9546,lost
+Q-table,seeds-qtable-2,69,3,11575,lost
+Q-table,seeds-qtable-2,90,3,14350,lost
+Q-table,seeds-qtable-2,94,4,18876,lost
+Q-table,seeds-qtable-2,90,3,17789,lost
+Q-table,seeds-qtable-2,91,3,11151,lost
+Q-table,seeds-qtable-2,71,3,11821,lost
+Q-table,seeds-qtable-2,58,2,8427,lost
+Q-table,seeds-qtable-2,97,4,11405,lost
+Q-table,seeds-qtable-2,86,3,11125,lost
+Q-table,seeds-qtable-2,78,3,12731,lost
+Q-table,seeds-qtable-2,74,3,8041,lost
+Q-table,seeds-qtable-2,75,3,11211,lost
+Q-table,seeds-qtable-2,74,3,7746,lost
+Q-table,seeds-qtable-2,67,2,9588,lost
+Q-table,seeds-qtable-2,85,3,9929,lost
+Q-table,seeds-qtable-2,93,4,12234,lost
+Q-table,seeds-qtable-2,110,4,14822,lost
+Q-table,seeds-qtable-2,74,3,9828,lost
+Q-table,seeds-qtable-2,90,3,14316,lost
+Q-table,seeds-qtable-2,73,3,13558,lost
+Q-table,seeds-qtable-2,85,3,11836,lost
+Q-table,seeds-qtable-2,86,3,9360,lost
+Q-table,seeds-qtable-2,91,3,10575,lost
+Q-table,seeds-qtable-2,78,3,11987,lost
+Q-table,seeds-qtable-2,50,2,7992,lost
+Q-table,seeds-qtable-2,95,4,9954,lost
+Q-table,seeds-qtable-2,94,4,9546,lost
+Q-table,seeds-qtable-2,79,3,13656,lost
+Q-table,seeds-qtable-2,86,3,14704,lost
+Q-table,seeds-qtable-2,80,3,13396,lost
+Q-table,seeds-qtable-2,77,3,7415,lost
+Q-table,seeds-qtable-2,93,4,13708,lost
+Q-table,seeds-qtable-2,77,3,15044,lost
+Q-table,seeds-qtable-2,103,4,11082,lost
+Q-table,seeds-qtable-2,91,3,12165,lost
+Q-table,seeds-qtable-2,110,4,10065,lost
+Q-table,seeds-qtable-2,83,3,9334,lost
+Q-table,seeds-qtable-2,76,3,15189,lost
+Q-table,seeds-qtable-2,93,4,13518,lost
+Q-table,seeds-qtable-2,67,2,14371,lost
+Q-table,seeds-qtable-2,86,3,13332,lost
+Q-table,seeds-qtable-2,84,3,9753,lost
+Q-table,seeds-qtable-2,74,3,9789,lost
+Q-table,seeds-qtable-2,98,4,10414,lost
+Q-table,seeds-qtable-2,88,3,9436,lost
+Q-table,seeds-qtable-2,93,4,11982,lost
+Q-table,seeds-qtable-2,79,3,14112,lost
+Q-table,seeds-qtable-2,71,3,10358,lost
+Q-table,seeds-qtable-2,76,3,8812,lost
+Q-table,seeds-qtable-2,88,3,9936,lost
+Q-table,seeds-qtable-2,75,3,9749,lost
+Q-table,seeds-qtable-2,83,3,13702,lost
+Q-table,seeds-qtable-2,79,3,12212,lost
+Q-table,seeds-qtable-2,91,3,9411,lost
+Q-table,seeds-qtable-2,93,4,13514,lost
+Q-table,seeds-qtable-2,102,4,9785,lost
+Q-table,seeds-qtable-2,88,3,12624,lost
+Q-table,seeds-qtable-2,91,3,15604,lost
+Q-table,seeds-qtable-2,99,4,15312,lost
+Q-table,seeds-qtable-2,82,3,14694,lost
+Q-table,seeds-qtable-2,95,4,11254,lost
+Q-table,seeds-qtable-2,87,3,11766,lost
+Q-table,seeds-qtable-2,79,3,12695,lost
+Q-table,seeds-qtable-2,87,3,14816,lost
+Q-table,seeds-qtable-2,100,4,9942,lost
+Q-table,seeds-qtable-2,85,3,8760,lost
+Q-table,seeds-qtable-2,76,3,12945,lost
+Q-table,seeds-qtable-2,74,3,15144,lost
+Q-table,seeds-qtable-2,96,4,15679,lost
+Q-table,seeds-qtable-2,81,3,11823,lost
+Q-table,seeds-qtable-2,76,3,7628,lost
+Q-table,seeds-qtable-2,96,4,10255,lost
+Q-table,seeds-qtable-2,65,2,7557,lost
+Q-table,seeds-qtable-2,83,3,10115,lost
+Q-table,seeds-qtable-2,76,3,11259,lost
+Q-table,seeds-qtable-2,90,3,12662,lost
+Q-table,seeds-qtable-2,83,3,11503,lost
+Q-table,seeds-qtable-2,74,3,8722,lost
+Q-table,seeds-qtable-2,93,4,11563,lost
+Q-table,seeds-qtable-2,78,3,11744,lost
+Q-table,seeds-qtable-2,66,2,13788,lost
+Q-table,seeds-qtable-2,82,3,11153,lost
+Q-table,seeds-qtable-2,77,3,15994,lost
+Q-table,seeds-qtable-2,85,3,10428,lost
+Q-table,seeds-qtable-2,79,3,11750,lost
+Q-table,seeds-qtable-3,77,3,7987,lost
+Q-table,seeds-qtable-3,70,3,16448,lost
+Q-table,seeds-qtable-3,95,4,11813,lost
+Q-table,seeds-qtable-3,81,3,13004,lost
+Q-table,seeds-qtable-3,93,4,14141,lost
+Q-table,seeds-qtable-3,73,3,12620,lost
+Q-table,seeds-qtable-3,73,3,15485,lost
+Q-table,seeds-qtable-3,88,3,17505,lost
+Q-table,seeds-qtable-3,73,3,9654,lost
+Q-table,seeds-qtable-3,81,3,12587,lost
+Q-table,seeds-qtable-3,72,3,16896,lost
+Q-table,seeds-qtable-3,76,3,11427,lost
+Q-table,seeds-qtable-3,73,3,10711,lost
+Q-table,seeds-qtable-3,91,3,16683,lost
+Q-table,seeds-qtable-3,60,2,6513,lost
+Q-table,seeds-qtable-3,73,3,19502,lost
+Q-table,seeds-qtable-3,69,3,10924,lost
+Q-table,seeds-qtable-3,78,3,14248,lost
+Q-table,seeds-qtable-3,75,3,9618,lost
+Q-table,seeds-qtable-3,84,3,11263,lost
+Q-table,seeds-qtable-3,74,3,9691,lost
+Q-table,seeds-qtable-3,70,3,9283,lost
+Q-table,seeds-qtable-3,72,3,17244,lost
+Q-table,seeds-qtable-3,76,3,10683,lost
+Q-table,seeds-qtable-3,69,3,11120,lost
+Q-table,seeds-qtable-3,70,3,12708,lost
+Q-table,seeds-qtable-3,76,3,15267,lost
+Q-table,seeds-qtable-3,78,3,9557,lost
+Q-table,seeds-qtable-3,76,3,10549,lost
+Q-table,seeds-qtable-3,70,3,9933,lost
+Q-table,seeds-qtable-3,69,3,17338,lost
+Q-table,seeds-qtable-3,79,3,10071,lost
+Q-table,seeds-qtable-3,86,3,9460,lost
+Q-table,seeds-qtable-3,90,3,12051,lost
+Q-table,seeds-qtable-3,72,3,12381,lost
+Q-table,seeds-qtable-3,85,3,13711,lost
+Q-table,seeds-qtable-3,78,3,9157,lost
+Q-table,seeds-qtable-3,74,3,9441,lost
+Q-table,seeds-qtable-3,78,3,18550,lost
+Q-table,seeds-qtable-3,72,3,12411,lost
+Q-table,seeds-qtable-3,82,3,10402,lost
+Q-table,seeds-qtable-3,90,3,14682,lost
+Q-table,seeds-qtable-3,79,3,10341,lost
+Q-table,seeds-qtable-3,87,3,12916,lost
+Q-table,seeds-qtable-3,53,2,7893,lost
+Q-table,seeds-qtable-3,87,3,12635,lost
+Q-table,seeds-qtable-3,97,4,12173,lost
+Q-table,seeds-qtable-3,93,4,11631,lost
+Q-table,seeds-qtable-3,91,3,12420,lost
+Q-table,seeds-qtable-3,86,3,10126,lost
+Q-table,seeds-qtable-3,73,3,9974,lost
+Q-table,seeds-qtable-3,78,3,13282,lost
+Q-table,seeds-qtable-3,83,3,10736,lost
+Q-table,seeds-qtable-3,73,3,8367,lost
+Q-table,seeds-qtable-3,77,3,11137,lost
+Q-table,seeds-qtable-3,91,3,17009,lost
+Q-table,seeds-qtable-3,73,3,14489,lost
+Q-table,seeds-qtable-3,56,2,5279,lost
+Q-table,seeds-qtable-3,82,3,12499,lost
+Q-table,seeds-qtable-3,83,3,10238,lost
+Q-table,seeds-qtable-3,91,3,9935,lost
+Q-table,seeds-qtable-3,89,3,9756,lost
+Q-table,seeds-qtable-3,80,3,14626,lost
+Q-table,seeds-qtable-3,85,3,9164,lost
+Q-table,seeds-qtable-3,82,3,7865,lost
+Q-table,seeds-qtable-3,70,3,13588,lost
+Q-table,seeds-qtable-3,75,3,12315,lost
+Q-table,seeds-qtable-3,76,3,7277,lost
+Q-table,seeds-qtable-3,72,3,11451,lost
+Q-table,seeds-qtable-3,76,3,19218,lost
+Q-table,seeds-qtable-3,78,3,11521,lost
+Q-table,seeds-qtable-3,67,2,10441,lost
+Q-table,seeds-qtable-3,87,3,10695,lost
+Q-table,seeds-qtable-3,52,2,18148,lost
+Q-table,seeds-qtable-3,82,3,10475,lost
+Q-table,seeds-qtable-3,83,3,10224,lost
+Q-table,seeds-qtable-3,76,3,15256,lost
+Q-table,seeds-qtable-3,79,3,10362,lost
+Q-table,seeds-qtable-3,82,3,12322,lost
+Q-table,seeds-qtable-3,89,3,8253,lost
+Q-table,seeds-qtable-3,69,3,12236,lost
+Q-table,seeds-qtable-3,53,2,7723,lost
+Q-table,seeds-qtable-3,83,3,10381,lost
+Q-table,seeds-qtable-3,78,3,11526,lost
+Q-table,seeds-qtable-3,85,3,10255,lost
+Q-table,seeds-qtable-3,77,3,12948,lost
+Q-table,seeds-qtable-3,71,3,9859,lost
+Q-table,seeds-qtable-3,67,2,11464,lost
+Q-table,seeds-qtable-3,60,2,6853,lost
+Q-table,seeds-qtable-3,75,3,10373,lost
+Q-table,seeds-qtable-3,80,3,11140,lost
+Q-table,seeds-qtable-3,65,2,9144,lost
+Q-table,seeds-qtable-3,78,3,11193,lost
+Q-table,seeds-qtable-3,73,3,9036,lost
+Q-table,seeds-qtable-3,90,3,12868,lost
+Q-table,seeds-qtable-3,79,3,13579,lost
+Q-table,seeds-qtable-3,56,2,7606,lost
+Q-table,seeds-qtable-3,73,3,12107,lost
+Q-table,seeds-qtable-3,80,3,10382,lost
+Q-table,seeds-qtable-3,66,2,9562,lost
+DQN,seeds-dqn-full-0,70,3,12967,lost
+DQN,seeds-dqn-full-0,48,2,9632,lost
+DQN,seeds-dqn-full-0,57,2,10361,lost
+DQN,seeds-dqn-full-0,64,2,7512,lost
+DQN,seeds-dqn-full-0,69,3,9162,lost
+DQN,seeds-dqn-full-0,70,3,7128,lost
+DQN,seeds-dqn-full-0,72,3,9145,lost
+DQN,seeds-dqn-full-0,71,3,9034,lost
+DQN,seeds-dqn-full-0,41,2,4879,lost
+DQN,seeds-dqn-full-0,47,2,7828,lost
+DQN,seeds-dqn-full-0,70,3,6681,lost
+DQN,seeds-dqn-full-0,77,3,8408,lost
+DQN,seeds-dqn-full-0,69,3,11964,lost
+DQN,seeds-dqn-full-0,57,2,8426,lost
+DQN,seeds-dqn-full-0,70,3,10929,lost
+DQN,seeds-dqn-full-0,70,3,9647,lost
+DQN,seeds-dqn-full-0,74,3,9282,lost
+DQN,seeds-dqn-full-0,69,3,7439,lost
+DQN,seeds-dqn-full-0,70,3,11640,lost
+DQN,seeds-dqn-full-0,69,3,9866,lost
+DQN,seeds-dqn-full-0,69,3,8289,lost
+DQN,seeds-dqn-full-0,71,3,9317,lost
+DQN,seeds-dqn-full-0,71,3,17406,lost
+DQN,seeds-dqn-full-0,69,3,11485,lost
+DQN,seeds-dqn-full-0,70,3,8471,lost
+DQN,seeds-dqn-full-0,69,3,9132,lost
+DQN,seeds-dqn-full-0,69,3,11744,lost
+DQN,seeds-dqn-full-0,69,3,8298,lost
+DQN,seeds-dqn-full-0,69,3,9449,lost
+DQN,seeds-dqn-full-0,66,2,5122,lost
+DQN,seeds-dqn-full-0,60,2,5831,lost
+DQN,seeds-dqn-full-0,71,3,13239,lost
+DQN,seeds-dqn-full-0,70,3,10014,lost
+DQN,seeds-dqn-full-0,70,3,10032,lost
+DQN,seeds-dqn-full-0,70,3,7768,lost
+DQN,seeds-dqn-full-0,61,2,7993,lost
+DQN,seeds-dqn-full-0,67,2,9516,lost
+DQN,seeds-dqn-full-0,71,3,12987,lost
+DQN,seeds-dqn-full-0,75,3,8150,lost
+DQN,seeds-dqn-full-0,71,3,9040,lost
+DQN,seeds-dqn-full-0,71,3,8652,lost
+DQN,seeds-dqn-full-0,70,3,14288,lost
+DQN,seeds-dqn-full-0,71,3,15461,lost
+DQN,seeds-dqn-full-0,69,3,10106,lost
+DQN,seeds-dqn-full-0,63,2,7296,lost
+DQN,seeds-dqn-full-0,33,1,6028,lost
+DQN,seeds-dqn-full-0,69,3,7798,lost
+DQN,seeds-dqn-full-0,69,3,10981,lost
+DQN,seeds-dqn-full-0,74,3,9491,lost
+DQN,seeds-dqn-full-0,73,3,13722,lost
+DQN,seeds-dqn-full-0,45,2,6412,lost
+DQN,seeds-dqn-full-0,63,2,8325,lost
+DQN,seeds-dqn-full-0,70,3,8953,lost
+DQN,seeds-dqn-full-0,71,3,14098,lost
+DQN,seeds-dqn-full-0,74,3,9770,lost
+DQN,seeds-dqn-full-0,69,3,13089,lost
+DQN,seeds-dqn-full-0,53,2,6199,lost
+DQN,seeds-dqn-full-0,72,3,7207,lost
+DQN,seeds-dqn-full-0,45,2,5110,lost
+DQN,seeds-dqn-full-0,69,3,10818,lost
+DQN,seeds-dqn-full-0,71,3,8112,lost
+DQN,seeds-dqn-full-0,73,3,12793,lost
+DQN,seeds-dqn-full-0,70,3,11733,lost
+DQN,seeds-dqn-full-0,70,3,8332,lost
+DQN,seeds-dqn-full-0,69,3,9026,lost
+DQN,seeds-dqn-full-0,67,2,9609,lost
+DQN,seeds-dqn-full-0,69,3,11145,lost
+DQN,seeds-dqn-full-0,69,3,8568,lost
+DQN,seeds-dqn-full-0,71,3,9506,lost
+DQN,seeds-dqn-full-0,44,2,6187,lost
+DQN,seeds-dqn-full-0,69,3,6202,lost
+DQN,seeds-dqn-full-0,59,2,10160,lost
+DQN,seeds-dqn-full-0,73,3,9100,lost
+DQN,seeds-dqn-full-0,69,3,7936,lost
+DQN,seeds-dqn-full-0,69,3,11537,lost
+DQN,seeds-dqn-full-0,71,3,7747,lost
+DQN,seeds-dqn-full-0,74,3,8428,lost
+DQN,seeds-dqn-full-0,69,3,8528,lost
+DQN,seeds-dqn-full-0,69,3,8779,lost
+DQN,seeds-dqn-full-0,47,2,7602,lost
+DQN,seeds-dqn-full-0,48,2,6103,lost
+DQN,seeds-dqn-full-0,69,3,16835,lost
+DQN,seeds-dqn-full-0,45,2,9126,lost
+DQN,seeds-dqn-full-0,75,3,10619,lost
+DQN,seeds-dqn-full-0,53,2,10469,lost
+DQN,seeds-dqn-full-0,69,3,8290,lost
+DQN,seeds-dqn-full-0,29,1,3917,lost
+DQN,seeds-dqn-full-0,52,2,6450,lost
+DQN,seeds-dqn-full-0,69,3,7562,lost
+DQN,seeds-dqn-full-0,70,3,13368,lost
+DQN,seeds-dqn-full-0,70,3,11480,lost
+DQN,seeds-dqn-full-0,71,3,9267,lost
+DQN,seeds-dqn-full-0,70,3,10084,lost
+DQN,seeds-dqn-full-0,70,3,8160,lost
+DQN,seeds-dqn-full-0,70,3,8519,lost
+DQN,seeds-dqn-full-0,69,3,10103,lost
+DQN,seeds-dqn-full-0,70,3,10695,lost
+DQN,seeds-dqn-full-0,69,3,9524,lost
+DQN,seeds-dqn-full-0,54,2,7829,lost
+DQN,seeds-dqn-full-0,67,2,8022,lost
+DQN,seeds-dqn-full-1,72,3,15088,lost
+DQN,seeds-dqn-full-1,71,3,8612,lost
+DQN,seeds-dqn-full-1,72,3,8898,lost
+DQN,seeds-dqn-full-1,71,3,8035,lost
+DQN,seeds-dqn-full-1,80,3,10887,lost
+DQN,seeds-dqn-full-1,85,3,16587,lost
+DQN,seeds-dqn-full-1,73,3,8852,lost
+DQN,seeds-dqn-full-1,75,3,9436,lost
+DQN,seeds-dqn-full-1,71,3,9232,lost
+DQN,seeds-dqn-full-1,71,3,8629,lost
+DQN,seeds-dqn-full-1,73,3,7483,lost
+DQN,seeds-dqn-full-1,71,3,8096,lost
+DQN,seeds-dqn-full-1,74,3,8325,lost
+DQN,seeds-dqn-full-1,75,3,7746,lost
+DQN,seeds-dqn-full-1,38,1,20039,stuck
+DQN,seeds-dqn-full-1,64,2,7110,lost
+DQN,seeds-dqn-full-1,76,3,10654,lost
+DQN,seeds-dqn-full-1,74,3,10423,lost
+DQN,seeds-dqn-full-1,73,3,8146,lost
+DQN,seeds-dqn-full-1,73,3,11453,lost
+DQN,seeds-dqn-full-1,71,3,6900,lost
+DQN,seeds-dqn-full-1,70,3,10069,lost
+DQN,seeds-dqn-full-1,73,3,9623,lost
+DQN,seeds-dqn-full-1,74,3,15228,lost
+DQN,seeds-dqn-full-1,72,3,8775,lost
+DQN,seeds-dqn-full-1,61,2,14750,lost
+DQN,seeds-dqn-full-1,77,3,7767,lost
+DQN,seeds-dqn-full-1,72,3,10036,lost
+DQN,seeds-dqn-full-1,77,3,11004,lost
+DQN,seeds-dqn-full-1,73,3,12291,lost
+DQN,seeds-dqn-full-1,70,3,8871,lost
+DQN,seeds-dqn-full-1,72,3,7076,lost
+DQN,seeds-dqn-full-1,71,3,13070,lost
+DQN,seeds-dqn-full-1,87,3,12210,lost
+DQN,seeds-dqn-full-1,77,3,7573,lost
+DQN,seeds-dqn-full-1,71,3,9759,lost
+DQN,seeds-dqn-full-1,72,3,8073,lost
+DQN,seeds-dqn-full-1,79,3,14886,lost
+DQN,seeds-dqn-full-1,77,3,9395,lost
+DQN,seeds-dqn-full-1,74,3,9669,lost
+DQN,seeds-dqn-full-1,71,3,10204,lost
+DQN,seeds-dqn-full-1,72,3,8841,lost
+DQN,seeds-dqn-full-1,73,3,10478,lost
+DQN,seeds-dqn-full-1,77,3,8945,lost
+DQN,seeds-dqn-full-1,72,3,8456,lost
+DQN,seeds-dqn-full-1,79,3,10541,lost
+DQN,seeds-dqn-full-1,73,3,16451,lost
+DQN,seeds-dqn-full-1,74,3,7914,lost
+DQN,seeds-dqn-full-1,72,3,12690,lost
+DQN,seeds-dqn-full-1,75,3,5449,lost
+DQN,seeds-dqn-full-1,73,3,9869,lost
+DQN,seeds-dqn-full-1,69,3,9189,lost
+DQN,seeds-dqn-full-1,73,3,9715,lost
+DQN,seeds-dqn-full-1,94,4,12073,lost
+DQN,seeds-dqn-full-1,73,3,8074,lost
+DQN,seeds-dqn-full-1,73,3,7571,lost
+DQN,seeds-dqn-full-1,73,3,8869,lost
+DQN,seeds-dqn-full-1,38,1,14745,stuck
+DQN,seeds-dqn-full-1,73,3,18441,lost
+DQN,seeds-dqn-full-1,38,1,15532,stuck
+DQN,seeds-dqn-full-1,73,3,15818,lost
+DQN,seeds-dqn-full-1,71,3,9071,lost
+DQN,seeds-dqn-full-1,71,3,9393,lost
+DQN,seeds-dqn-full-1,72,3,10467,lost
+DQN,seeds-dqn-full-1,75,3,8118,lost
+DQN,seeds-dqn-full-1,81,3,14103,lost
+DQN,seeds-dqn-full-1,76,3,10184,lost
+DQN,seeds-dqn-full-1,73,3,11986,lost
+DQN,seeds-dqn-full-1,72,3,10512,lost
+DQN,seeds-dqn-full-1,77,3,10126,lost
+DQN,seeds-dqn-full-1,74,3,10619,lost
+DQN,seeds-dqn-full-1,38,1,14326,stuck
+DQN,seeds-dqn-full-1,73,3,6951,lost
+DQN,seeds-dqn-full-1,73,3,10104,lost
+DQN,seeds-dqn-full-1,73,3,13525,lost
+DQN,seeds-dqn-full-1,94,4,10264,lost
+DQN,seeds-dqn-full-1,72,3,12913,lost
+DQN,seeds-dqn-full-1,100,4,13565,lost
+DQN,seeds-dqn-full-1,101,4,13332,lost
+DQN,seeds-dqn-full-1,74,3,7524,lost
+DQN,seeds-dqn-full-1,80,3,10657,lost
+DQN,seeds-dqn-full-1,84,3,8515,lost
+DQN,seeds-dqn-full-1,78,3,8296,lost
+DQN,seeds-dqn-full-1,72,3,7455,lost
+DQN,seeds-dqn-full-1,73,3,12012,lost
+DQN,seeds-dqn-full-1,72,3,7903,lost
+DQN,seeds-dqn-full-1,73,3,8255,lost
+DQN,seeds-dqn-full-1,72,3,9335,lost
+DQN,seeds-dqn-full-1,73,3,14967,lost
+DQN,seeds-dqn-full-1,72,3,11064,lost
+DQN,seeds-dqn-full-1,75,3,7855,lost
+DQN,seeds-dqn-full-1,72,3,10039,lost
+DQN,seeds-dqn-full-1,73,3,12560,lost
+DQN,seeds-dqn-full-1,71,3,8566,lost
+DQN,seeds-dqn-full-1,73,3,10941,lost
+DQN,seeds-dqn-full-1,73,3,8904,lost
+DQN,seeds-dqn-full-1,73,3,9269,lost
+DQN,seeds-dqn-full-1,79,3,12497,lost
+DQN,seeds-dqn-full-1,69,3,7872,lost
+DQN,seeds-dqn-full-1,94,4,14170,lost
+DQN,seeds-dqn-full-2,74,3,10780,lost
+DQN,seeds-dqn-full-2,85,3,10047,lost
+DQN,seeds-dqn-full-2,91,3,10608,lost
+DQN,seeds-dqn-full-2,83,3,11577,lost
+DQN,seeds-dqn-full-2,95,4,11870,lost
+DQN,seeds-dqn-full-2,91,3,10729,lost
+DQN,seeds-dqn-full-2,93,4,13275,lost
+DQN,seeds-dqn-full-2,81,3,12795,lost
+DQN,seeds-dqn-full-2,79,3,9810,lost
+DQN,seeds-dqn-full-2,90,3,13984,lost
+DQN,seeds-dqn-full-2,84,3,9565,lost
+DQN,seeds-dqn-full-2,112,4,16050,lost
+DQN,seeds-dqn-full-2,79,3,10415,lost
+DQN,seeds-dqn-full-2,71,3,11620,lost
+DQN,seeds-dqn-full-2,75,3,7710,lost
+DQN,seeds-dqn-full-2,76,3,7846,lost
+DQN,seeds-dqn-full-2,79,3,16193,lost
+DQN,seeds-dqn-full-2,88,3,13142,lost
+DQN,seeds-dqn-full-2,71,3,8475,lost
+DQN,seeds-dqn-full-2,83,3,14658,lost
+DQN,seeds-dqn-full-2,64,2,14768,lost
+DQN,seeds-dqn-full-2,94,4,15660,lost
+DQN,seeds-dqn-full-2,86,3,21914,lost
+DQN,seeds-dqn-full-2,39,1,18587,stuck
+DQN,seeds-dqn-full-2,75,3,8409,lost
+DQN,seeds-dqn-full-2,98,4,12528,lost
+DQN,seeds-dqn-full-2,108,4,13824,lost
+DQN,seeds-dqn-full-2,96,4,11516,lost
+DQN,seeds-dqn-full-2,86,3,9812,lost
+DQN,seeds-dqn-full-2,71,3,15693,lost
+DQN,seeds-dqn-full-2,90,3,13201,lost
+DQN,seeds-dqn-full-2,82,3,9666,lost
+DQN,seeds-dqn-full-2,110,4,19703,lost
+DQN,seeds-dqn-full-2,72,3,11717,lost
+DQN,seeds-dqn-full-2,95,4,10519,lost
+DQN,seeds-dqn-full-2,91,3,10484,lost
+DQN,seeds-dqn-full-2,86,3,8352,lost
+DQN,seeds-dqn-full-2,98,4,14914,lost
+DQN,seeds-dqn-full-2,81,3,7977,lost
+DQN,seeds-dqn-full-2,87,3,10360,lost
+DQN,seeds-dqn-full-2,84,3,8750,lost
+DQN,seeds-dqn-full-2,85,3,16699,lost
+DQN,seeds-dqn-full-2,88,3,18246,lost
+DQN,seeds-dqn-full-2,79,3,9615,lost
+DQN,seeds-dqn-full-2,105,4,9259,lost
+DQN,seeds-dqn-full-2,66,2,8669,lost
+DQN,seeds-dqn-full-2,57,2,5610,lost
+DQN,seeds-dqn-full-2,109,4,20148,lost
+DQN,seeds-dqn-full-2,86,3,15420,lost
+DQN,seeds-dqn-full-2,93,4,15254,lost
+DQN,seeds-dqn-full-2,74,3,7918,lost
+DQN,seeds-dqn-full-2,80,3,11936,lost
+DQN,seeds-dqn-full-2,72,3,9313,lost
+DQN,seeds-dqn-full-2,85,3,8634,lost
+DQN,seeds-dqn-full-2,74,3,7709,lost
+DQN,seeds-dqn-full-2,89,3,10073,lost
+DQN,seeds-dqn-full-2,57,2,9327,lost
+DQN,seeds-dqn-full-2,104,4,8944,lost
+DQN,seeds-dqn-full-2,69,3,6862,lost
+DQN,seeds-dqn-full-2,94,4,11559,lost
+DQN,seeds-dqn-full-2,77,3,9195,lost
+DQN,seeds-dqn-full-2,113,4,11677,lost
+DQN,seeds-dqn-full-2,87,3,14608,lost
+DQN,seeds-dqn-full-2,90,3,15427,lost
+DQN,seeds-dqn-full-2,95,4,10885,lost
+DQN,seeds-dqn-full-2,70,3,11621,lost
+DQN,seeds-dqn-full-2,79,3,11885,lost
+DQN,seeds-dqn-full-2,87,3,13207,lost
+DQN,seeds-dqn-full-2,39,1,15036,stuck
+DQN,seeds-dqn-full-2,89,3,13462,lost
+DQN,seeds-dqn-full-2,70,3,12755,lost
+DQN,seeds-dqn-full-2,72,3,10406,lost
+DQN,seeds-dqn-full-2,73,3,7874,lost
+DQN,seeds-dqn-full-2,84,3,13000,lost
+DQN,seeds-dqn-full-2,80,3,12891,lost
+DQN,seeds-dqn-full-2,91,3,13058,lost
+DQN,seeds-dqn-full-2,111,4,11427,lost
+DQN,seeds-dqn-full-2,93,4,16111,lost
+DQN,seeds-dqn-full-2,96,4,9419,lost
+DQN,seeds-dqn-full-2,81,3,10995,lost
+DQN,seeds-dqn-full-2,87,3,13255,lost
+DQN,seeds-dqn-full-2,106,4,20524,lost
+DQN,seeds-dqn-full-2,101,4,11532,lost
+DQN,seeds-dqn-full-2,80,3,8647,lost
+DQN,seeds-dqn-full-2,76,3,8050,lost
+DQN,seeds-dqn-full-2,91,3,12916,lost
+DQN,seeds-dqn-full-2,86,3,15852,lost
+DQN,seeds-dqn-full-2,89,3,15229,lost
+DQN,seeds-dqn-full-2,85,3,11351,lost
+DQN,seeds-dqn-full-2,67,2,11464,lost
+DQN,seeds-dqn-full-2,72,3,12847,lost
+DQN,seeds-dqn-full-2,91,3,12559,lost
+DQN,seeds-dqn-full-2,69,3,7350,lost
+DQN,seeds-dqn-full-2,83,3,12034,lost
+DQN,seeds-dqn-full-2,80,3,16825,lost
+DQN,seeds-dqn-full-2,97,4,8751,lost
+DQN,seeds-dqn-full-2,96,4,10907,lost
+DQN,seeds-dqn-full-2,91,3,15666,lost
+DQN,seeds-dqn-full-2,84,3,13136,lost
+DQN,seeds-dqn-full-2,109,4,13039,lost
+REINFORCE,seeds-reinforce-0,8,1,899,lost
+REINFORCE,seeds-reinforce-0,5,1,469,lost
+REINFORCE,seeds-reinforce-0,12,1,1451,lost
+REINFORCE,seeds-reinforce-0,15,1,1661,lost
+REINFORCE,seeds-reinforce-0,7,1,702,lost
+REINFORCE,seeds-reinforce-0,14,1,1095,lost
+REINFORCE,seeds-reinforce-0,9,1,1021,lost
+REINFORCE,seeds-reinforce-0,16,1,1959,lost
+REINFORCE,seeds-reinforce-0,4,1,495,lost
+REINFORCE,seeds-reinforce-0,23,1,2733,lost
+REINFORCE,seeds-reinforce-0,15,1,1698,lost
+REINFORCE,seeds-reinforce-0,12,1,1241,lost
+REINFORCE,seeds-reinforce-0,7,1,686,lost
+REINFORCE,seeds-reinforce-0,6,1,657,lost
+REINFORCE,seeds-reinforce-0,7,1,880,lost
+REINFORCE,seeds-reinforce-0,7,1,794,lost
+REINFORCE,seeds-reinforce-0,14,1,1555,lost
+REINFORCE,seeds-reinforce-0,12,1,1164,lost
+REINFORCE,seeds-reinforce-0,4,1,501,lost
+REINFORCE,seeds-reinforce-0,15,1,1658,lost
+REINFORCE,seeds-reinforce-0,5,1,623,lost
+REINFORCE,seeds-reinforce-0,9,1,772,lost
+REINFORCE,seeds-reinforce-0,21,1,2335,lost
+REINFORCE,seeds-reinforce-0,20,1,1539,lost
+REINFORCE,seeds-reinforce-0,3,1,385,lost
+REINFORCE,seeds-reinforce-0,7,1,917,lost
+REINFORCE,seeds-reinforce-0,11,1,1212,lost
+REINFORCE,seeds-reinforce-0,7,1,769,lost
+REINFORCE,seeds-reinforce-0,15,1,1556,lost
+REINFORCE,seeds-reinforce-0,6,1,704,lost
+REINFORCE,seeds-reinforce-0,4,1,506,lost
+REINFORCE,seeds-reinforce-0,14,1,1610,lost
+REINFORCE,seeds-reinforce-0,11,1,1276,lost
+REINFORCE,seeds-reinforce-0,9,1,1033,lost
+REINFORCE,seeds-reinforce-0,8,1,954,lost
+REINFORCE,seeds-reinforce-0,12,1,1164,lost
+REINFORCE,seeds-reinforce-0,17,1,1836,lost
+REINFORCE,seeds-reinforce-0,7,1,746,lost
+REINFORCE,seeds-reinforce-0,20,1,1696,lost
+REINFORCE,seeds-reinforce-0,24,1,2230,lost
+REINFORCE,seeds-reinforce-0,17,1,1678,lost
+REINFORCE,seeds-reinforce-0,14,1,1490,lost
+REINFORCE,seeds-reinforce-0,7,1,783,lost
+REINFORCE,seeds-reinforce-0,6,1,717,lost
+REINFORCE,seeds-reinforce-0,13,1,1277,lost
+REINFORCE,seeds-reinforce-0,8,1,970,lost
+REINFORCE,seeds-reinforce-0,11,1,1220,lost
+REINFORCE,seeds-reinforce-0,7,1,823,lost
+REINFORCE,seeds-reinforce-0,12,1,1152,lost
+REINFORCE,seeds-reinforce-0,4,1,456,lost
+REINFORCE,seeds-reinforce-0,10,1,1215,lost
+REINFORCE,seeds-reinforce-0,17,1,1399,lost
+REINFORCE,seeds-reinforce-0,25,1,2192,lost
+REINFORCE,seeds-reinforce-0,18,1,2144,lost
+REINFORCE,seeds-reinforce-0,12,1,1454,lost
+REINFORCE,seeds-reinforce-0,15,1,1220,lost
+REINFORCE,seeds-reinforce-0,6,1,613,lost
+REINFORCE,seeds-reinforce-0,16,1,1099,lost
+REINFORCE,seeds-reinforce-0,9,1,940,lost
+REINFORCE,seeds-reinforce-0,17,1,1792,lost
+REINFORCE,seeds-reinforce-0,9,1,1025,lost
+REINFORCE,seeds-reinforce-0,14,1,1388,lost
+REINFORCE,seeds-reinforce-0,10,1,1021,lost
+REINFORCE,seeds-reinforce-0,5,1,569,lost
+REINFORCE,seeds-reinforce-0,8,1,874,lost
+REINFORCE,seeds-reinforce-0,25,1,2253,lost
+REINFORCE,seeds-reinforce-0,22,1,2470,lost
+REINFORCE,seeds-reinforce-0,14,1,1390,lost
+REINFORCE,seeds-reinforce-0,5,1,503,lost
+REINFORCE,seeds-reinforce-0,15,1,1633,lost
+REINFORCE,seeds-reinforce-0,25,1,2268,lost
+REINFORCE,seeds-reinforce-0,7,1,625,lost
+REINFORCE,seeds-reinforce-0,16,1,1977,lost
+REINFORCE,seeds-reinforce-0,11,1,1031,lost
+REINFORCE,seeds-reinforce-0,21,1,2268,lost
+REINFORCE,seeds-reinforce-0,22,1,2013,lost
+REINFORCE,seeds-reinforce-0,11,1,1118,lost
+REINFORCE,seeds-reinforce-0,4,1,500,lost
+REINFORCE,seeds-reinforce-0,11,1,1186,lost
+REINFORCE,seeds-reinforce-0,9,1,959,lost
+REINFORCE,seeds-reinforce-0,7,1,850,lost
+REINFORCE,seeds-reinforce-0,6,1,642,lost
+REINFORCE,seeds-reinforce-0,8,1,958,lost
+REINFORCE,seeds-reinforce-0,26,1,2322,lost
+REINFORCE,seeds-reinforce-0,10,1,982,lost
+REINFORCE,seeds-reinforce-0,14,1,1324,lost
+REINFORCE,seeds-reinforce-0,13,1,1384,lost
+REINFORCE,seeds-reinforce-0,17,1,1805,lost
+REINFORCE,seeds-reinforce-0,7,1,582,lost
+REINFORCE,seeds-reinforce-0,8,1,901,lost
+REINFORCE,seeds-reinforce-0,13,1,1408,lost
+REINFORCE,seeds-reinforce-0,7,1,761,lost
+REINFORCE,seeds-reinforce-0,20,1,2102,lost
+REINFORCE,seeds-reinforce-0,4,1,493,lost
+REINFORCE,seeds-reinforce-0,13,1,1459,lost
+REINFORCE,seeds-reinforce-0,4,1,469,lost
+REINFORCE,seeds-reinforce-0,14,1,1491,lost
+REINFORCE,seeds-reinforce-0,9,1,1073,lost
+REINFORCE,seeds-reinforce-0,10,1,1203,lost
+REINFORCE,seeds-reinforce-0,6,1,654,lost
+REINFORCE,seeds-reinforce-1,10,1,1199,lost
+REINFORCE,seeds-reinforce-1,10,1,1088,lost
+REINFORCE,seeds-reinforce-1,8,1,895,lost
+REINFORCE,seeds-reinforce-1,19,1,1932,lost
+REINFORCE,seeds-reinforce-1,19,1,1497,lost
+REINFORCE,seeds-reinforce-1,7,1,785,lost
+REINFORCE,seeds-reinforce-1,18,1,1520,lost
+REINFORCE,seeds-reinforce-1,14,1,1555,lost
+REINFORCE,seeds-reinforce-1,4,1,495,lost
+REINFORCE,seeds-reinforce-1,10,1,998,lost
+REINFORCE,seeds-reinforce-1,24,1,2474,lost
+REINFORCE,seeds-reinforce-1,8,1,917,lost
+REINFORCE,seeds-reinforce-1,7,1,839,lost
+REINFORCE,seeds-reinforce-1,4,1,497,lost
+REINFORCE,seeds-reinforce-1,5,1,585,lost
+REINFORCE,seeds-reinforce-1,10,1,1069,lost
+REINFORCE,seeds-reinforce-1,4,1,436,lost
+REINFORCE,seeds-reinforce-1,9,1,986,lost
+REINFORCE,seeds-reinforce-1,4,1,490,lost
+REINFORCE,seeds-reinforce-1,10,1,1120,lost
+REINFORCE,seeds-reinforce-1,5,1,488,lost
+REINFORCE,seeds-reinforce-1,6,1,631,lost
+REINFORCE,seeds-reinforce-1,6,1,727,lost
+REINFORCE,seeds-reinforce-1,9,1,1057,lost
+REINFORCE,seeds-reinforce-1,3,1,385,lost
+REINFORCE,seeds-reinforce-1,5,1,627,lost
+REINFORCE,seeds-reinforce-1,6,1,568,lost
+REINFORCE,seeds-reinforce-1,9,1,951,lost
+REINFORCE,seeds-reinforce-1,17,1,1881,lost
+REINFORCE,seeds-reinforce-1,11,1,1067,lost
+REINFORCE,seeds-reinforce-1,4,1,516,lost
+REINFORCE,seeds-reinforce-1,11,1,1197,lost
+REINFORCE,seeds-reinforce-1,6,1,542,lost
+REINFORCE,seeds-reinforce-1,11,1,1140,lost
+REINFORCE,seeds-reinforce-1,9,1,1203,lost
+REINFORCE,seeds-reinforce-1,9,1,951,lost
+REINFORCE,seeds-reinforce-1,12,1,790,lost
+REINFORCE,seeds-reinforce-1,15,1,1430,lost
+REINFORCE,seeds-reinforce-1,12,1,1456,lost
+REINFORCE,seeds-reinforce-1,29,1,3280,lost
+REINFORCE,seeds-reinforce-1,6,1,787,lost
+REINFORCE,seeds-reinforce-1,5,1,605,lost
+REINFORCE,seeds-reinforce-1,8,1,749,lost
+REINFORCE,seeds-reinforce-1,15,1,1738,lost
+REINFORCE,seeds-reinforce-1,10,1,1072,lost
+REINFORCE,seeds-reinforce-1,8,1,970,lost
+REINFORCE,seeds-reinforce-1,15,1,1431,lost
+REINFORCE,seeds-reinforce-1,14,1,1435,lost
+REINFORCE,seeds-reinforce-1,26,1,2652,lost
+REINFORCE,seeds-reinforce-1,18,1,1772,lost
+REINFORCE,seeds-reinforce-1,6,1,595,lost
+REINFORCE,seeds-reinforce-1,9,1,1051,lost
+REINFORCE,seeds-reinforce-1,39,1,3322,lost
+REINFORCE,seeds-reinforce-1,11,1,1141,lost
+REINFORCE,seeds-reinforce-1,10,1,1155,lost
+REINFORCE,seeds-reinforce-1,10,1,1168,lost
+REINFORCE,seeds-reinforce-1,6,1,661,lost
+REINFORCE,seeds-reinforce-1,7,1,661,lost
+REINFORCE,seeds-reinforce-1,5,1,541,lost
+REINFORCE,seeds-reinforce-1,3,1,349,lost
+REINFORCE,seeds-reinforce-1,9,1,942,lost
+REINFORCE,seeds-reinforce-1,5,1,654,lost
+REINFORCE,seeds-reinforce-1,10,1,1047,lost
+REINFORCE,seeds-reinforce-1,7,1,826,lost
+REINFORCE,seeds-reinforce-1,19,1,1969,lost
+REINFORCE,seeds-reinforce-1,16,1,1693,lost
+REINFORCE,seeds-reinforce-1,13,1,1276,lost
+REINFORCE,seeds-reinforce-1,9,1,1028,lost
+REINFORCE,seeds-reinforce-1,5,1,503,lost
+REINFORCE,seeds-reinforce-1,4,1,438,lost
+REINFORCE,seeds-reinforce-1,10,1,1199,lost
+REINFORCE,seeds-reinforce-1,11,1,1123,lost
+REINFORCE,seeds-reinforce-1,22,1,2277,lost
+REINFORCE,seeds-reinforce-1,6,1,698,lost
+REINFORCE,seeds-reinforce-1,5,1,614,lost
+REINFORCE,seeds-reinforce-1,8,1,799,lost
+REINFORCE,seeds-reinforce-1,17,1,1917,lost
+REINFORCE,seeds-reinforce-1,3,1,352,lost
+REINFORCE,seeds-reinforce-1,6,1,803,lost
+REINFORCE,seeds-reinforce-1,13,1,1345,lost
+REINFORCE,seeds-reinforce-1,10,1,1033,lost
+REINFORCE,seeds-reinforce-1,6,1,778,lost
+REINFORCE,seeds-reinforce-1,12,1,1522,lost
+REINFORCE,seeds-reinforce-1,18,1,1972,lost
+REINFORCE,seeds-reinforce-1,21,1,2035,lost
+REINFORCE,seeds-reinforce-1,10,1,1159,lost
+REINFORCE,seeds-reinforce-1,11,1,893,lost
+REINFORCE,seeds-reinforce-1,7,1,625,lost
+REINFORCE,seeds-reinforce-1,7,1,788,lost
+REINFORCE,seeds-reinforce-1,15,1,1644,lost
+REINFORCE,seeds-reinforce-1,13,1,1319,lost
+REINFORCE,seeds-reinforce-1,11,1,1123,lost
+REINFORCE,seeds-reinforce-1,6,1,727,lost
+REINFORCE,seeds-reinforce-1,4,1,493,lost
+REINFORCE,seeds-reinforce-1,7,1,895,lost
+REINFORCE,seeds-reinforce-1,4,1,469,lost
+REINFORCE,seeds-reinforce-1,18,1,1881,lost
+REINFORCE,seeds-reinforce-1,10,1,1107,lost
+REINFORCE,seeds-reinforce-1,18,1,1897,lost
+REINFORCE,seeds-reinforce-1,18,1,1987,lost
+REINFORCE,seeds-reinforce-2,11,1,1007,lost
+REINFORCE,seeds-reinforce-2,8,1,872,lost
+REINFORCE,seeds-reinforce-2,8,1,895,lost
+REINFORCE,seeds-reinforce-2,19,1,1935,lost
+REINFORCE,seeds-reinforce-2,16,1,1551,lost
+REINFORCE,seeds-reinforce-2,6,1,677,lost
+REINFORCE,seeds-reinforce-2,19,1,2095,lost
+REINFORCE,seeds-reinforce-2,12,1,1172,lost
+REINFORCE,seeds-reinforce-2,3,1,362,lost
+REINFORCE,seeds-reinforce-2,9,1,744,lost
+REINFORCE,seeds-reinforce-2,15,1,1597,lost
+REINFORCE,seeds-reinforce-2,10,1,1080,lost
+REINFORCE,seeds-reinforce-2,10,1,1041,lost
+REINFORCE,seeds-reinforce-2,11,1,1217,lost
+REINFORCE,seeds-reinforce-2,12,1,1134,lost
+REINFORCE,seeds-reinforce-2,8,1,962,lost
+REINFORCE,seeds-reinforce-2,4,1,436,lost
+REINFORCE,seeds-reinforce-2,9,1,918,lost
+REINFORCE,seeds-reinforce-2,6,1,781,lost
+REINFORCE,seeds-reinforce-2,18,1,1807,lost
+REINFORCE,seeds-reinforce-2,11,1,1030,lost
+REINFORCE,seeds-reinforce-2,20,1,2079,lost
+REINFORCE,seeds-reinforce-2,8,1,906,lost
+REINFORCE,seeds-reinforce-2,28,1,2590,lost
+REINFORCE,seeds-reinforce-2,4,1,516,lost
+REINFORCE,seeds-reinforce-2,15,1,1529,lost
+REINFORCE,seeds-reinforce-2,4,1,471,lost
+REINFORCE,seeds-reinforce-2,9,1,1119,lost
+REINFORCE,seeds-reinforce-2,6,1,822,lost
+REINFORCE,seeds-reinforce-2,10,1,953,lost
+REINFORCE,seeds-reinforce-2,8,1,751,lost
+REINFORCE,seeds-reinforce-2,14,1,1351,lost
+REINFORCE,seeds-reinforce-2,5,1,446,lost
+REINFORCE,seeds-reinforce-2,38,1,4371,lost
+REINFORCE,seeds-reinforce-2,16,1,1637,lost
+REINFORCE,seeds-reinforce-2,11,1,1226,lost
+REINFORCE,seeds-reinforce-2,6,1,671,lost
+REINFORCE,seeds-reinforce-2,14,1,1384,lost
+REINFORCE,seeds-reinforce-2,6,1,667,lost
+REINFORCE,seeds-reinforce-2,6,1,731,lost
+REINFORCE,seeds-reinforce-2,7,1,719,lost
+REINFORCE,seeds-reinforce-2,5,1,605,lost
+REINFORCE,seeds-reinforce-2,16,1,1462,lost
+REINFORCE,seeds-reinforce-2,14,1,1499,lost
+REINFORCE,seeds-reinforce-2,15,1,841,lost
+REINFORCE,seeds-reinforce-2,23,1,2543,lost
+REINFORCE,seeds-reinforce-2,9,1,810,lost
+REINFORCE,seeds-reinforce-2,15,1,1129,lost
+REINFORCE,seeds-reinforce-2,14,1,1190,lost
+REINFORCE,seeds-reinforce-2,5,1,561,lost
+REINFORCE,seeds-reinforce-2,14,1,1696,lost
+REINFORCE,seeds-reinforce-2,11,1,1464,lost
+REINFORCE,seeds-reinforce-2,12,1,993,lost
+REINFORCE,seeds-reinforce-2,30,1,3427,lost
+REINFORCE,seeds-reinforce-2,8,1,1011,lost
+REINFORCE,seeds-reinforce-2,8,1,849,lost
+REINFORCE,seeds-reinforce-2,5,1,598,lost
+REINFORCE,seeds-reinforce-2,11,1,1088,lost
+REINFORCE,seeds-reinforce-2,5,1,507,lost
+REINFORCE,seeds-reinforce-2,3,1,349,lost
+REINFORCE,seeds-reinforce-2,8,1,913,lost
+REINFORCE,seeds-reinforce-2,5,1,604,lost
+REINFORCE,seeds-reinforce-2,18,1,1901,lost
+REINFORCE,seeds-reinforce-2,4,1,465,lost
+REINFORCE,seeds-reinforce-2,12,1,1155,lost
+REINFORCE,seeds-reinforce-2,12,1,1373,lost
+REINFORCE,seeds-reinforce-2,14,1,1637,lost
+REINFORCE,seeds-reinforce-2,18,1,1880,lost
+REINFORCE,seeds-reinforce-2,5,1,513,lost
+REINFORCE,seeds-reinforce-2,8,1,783,lost
+REINFORCE,seeds-reinforce-2,11,1,1199,lost
+REINFORCE,seeds-reinforce-2,15,1,1607,lost
+REINFORCE,seeds-reinforce-2,9,1,1069,lost
+REINFORCE,seeds-reinforce-2,10,1,1070,lost
+REINFORCE,seeds-reinforce-2,22,1,2116,lost
+REINFORCE,seeds-reinforce-2,6,1,744,lost
+REINFORCE,seeds-reinforce-2,13,1,1481,lost
+REINFORCE,seeds-reinforce-2,11,1,1281,lost
+REINFORCE,seeds-reinforce-2,6,1,724,lost
+REINFORCE,seeds-reinforce-2,8,1,1018,lost
+REINFORCE,seeds-reinforce-2,4,1,480,lost
+REINFORCE,seeds-reinforce-2,14,1,1719,lost
+REINFORCE,seeds-reinforce-2,6,1,567,lost
+REINFORCE,seeds-reinforce-2,7,1,710,lost
+REINFORCE,seeds-reinforce-2,17,1,1899,lost
+REINFORCE,seeds-reinforce-2,5,1,554,lost
+REINFORCE,seeds-reinforce-2,8,1,993,lost
+REINFORCE,seeds-reinforce-2,11,1,1244,lost
+REINFORCE,seeds-reinforce-2,11,1,1074,lost
+REINFORCE,seeds-reinforce-2,25,1,2482,lost
+REINFORCE,seeds-reinforce-2,8,1,1031,lost
+REINFORCE,seeds-reinforce-2,23,1,2682,lost
+REINFORCE,seeds-reinforce-2,14,1,1503,lost
+REINFORCE,seeds-reinforce-2,6,1,639,lost
+REINFORCE,seeds-reinforce-2,8,1,995,lost
+REINFORCE,seeds-reinforce-2,5,1,560,lost
+REINFORCE,seeds-reinforce-2,8,1,1015,lost
+REINFORCE,seeds-reinforce-2,5,1,618,lost
+REINFORCE,seeds-reinforce-2,6,1,736,lost
+REINFORCE,seeds-reinforce-2,5,1,582,lost
+actor-critic,seeds-actor-critic-0,65,2,10810,lost
+actor-critic,seeds-actor-critic-0,24,1,2466,lost
+actor-critic,seeds-actor-critic-0,65,2,9110,lost
+actor-critic,seeds-actor-critic-0,82,3,9935,lost
+actor-critic,seeds-actor-critic-0,84,3,9514,lost
+actor-critic,seeds-actor-critic-0,50,2,6148,lost
+actor-critic,seeds-actor-critic-0,66,2,10740,lost
+actor-critic,seeds-actor-critic-0,66,2,7856,lost
+actor-critic,seeds-actor-critic-0,64,2,7697,lost
+actor-critic,seeds-actor-critic-0,43,2,7195,lost
+actor-critic,seeds-actor-critic-0,66,2,10186,lost
+actor-critic,seeds-actor-critic-0,67,2,10845,lost
+actor-critic,seeds-actor-critic-0,49,2,6466,lost
+actor-critic,seeds-actor-critic-0,61,2,7520,lost
+actor-critic,seeds-actor-critic-0,39,1,4364,lost
+actor-critic,seeds-actor-critic-0,56,2,5948,lost
+actor-critic,seeds-actor-critic-0,63,2,6110,lost
+actor-critic,seeds-actor-critic-0,49,2,6487,lost
+actor-critic,seeds-actor-critic-0,43,2,9709,lost
+actor-critic,seeds-actor-critic-0,89,3,8994,lost
+actor-critic,seeds-actor-critic-0,69,3,9132,lost
+actor-critic,seeds-actor-critic-0,58,2,6514,lost
+actor-critic,seeds-actor-critic-0,66,2,8516,lost
+actor-critic,seeds-actor-critic-0,63,2,10956,lost
+actor-critic,seeds-actor-critic-0,45,2,4272,lost
+actor-critic,seeds-actor-critic-0,72,3,7465,lost
+actor-critic,seeds-actor-critic-0,55,2,7693,lost
+actor-critic,seeds-actor-critic-0,71,3,8574,lost
+actor-critic,seeds-actor-critic-0,67,2,7961,lost
+actor-critic,seeds-actor-critic-0,79,3,10458,lost
+actor-critic,seeds-actor-critic-0,46,2,6843,lost
+actor-critic,seeds-actor-critic-0,34,1,3956,lost
+actor-critic,seeds-actor-critic-0,77,3,8319,lost
+actor-critic,seeds-actor-critic-0,66,2,10808,lost
+actor-critic,seeds-actor-critic-0,60,2,5870,lost
+actor-critic,seeds-actor-critic-0,49,2,6882,lost
+actor-critic,seeds-actor-critic-0,59,2,7125,lost
+actor-critic,seeds-actor-critic-0,32,1,3652,lost
+actor-critic,seeds-actor-critic-0,53,2,5729,lost
+actor-critic,seeds-actor-critic-0,37,1,3739,lost
+actor-critic,seeds-actor-critic-0,77,3,9654,lost
+actor-critic,seeds-actor-critic-0,67,2,9226,lost
+actor-critic,seeds-actor-critic-0,82,3,9334,lost
+actor-critic,seeds-actor-critic-0,35,1,3947,lost
+actor-critic,seeds-actor-critic-0,78,3,9446,lost
+actor-critic,seeds-actor-critic-0,54,2,9307,lost
+actor-critic,seeds-actor-critic-0,67,2,8986,lost
+actor-critic,seeds-actor-critic-0,77,3,9189,lost
+actor-critic,seeds-actor-critic-0,70,3,7233,lost
+actor-critic,seeds-actor-critic-0,34,1,3906,lost
+actor-critic,seeds-actor-critic-0,63,2,7010,lost
+actor-critic,seeds-actor-critic-0,25,1,2767,lost
+actor-critic,seeds-actor-critic-0,73,3,11295,lost
+actor-critic,seeds-actor-critic-0,76,3,8978,lost
+actor-critic,seeds-actor-critic-0,28,1,3846,lost
+actor-critic,seeds-actor-critic-0,47,2,5009,lost
+actor-critic,seeds-actor-critic-0,63,2,7576,lost
+actor-critic,seeds-actor-critic-0,57,2,6774,lost
+actor-critic,seeds-actor-critic-0,75,3,9612,lost
+actor-critic,seeds-actor-critic-0,67,2,9440,lost
+actor-critic,seeds-actor-critic-0,75,3,7303,lost
+actor-critic,seeds-actor-critic-0,61,2,8566,lost
+actor-critic,seeds-actor-critic-0,46,2,5391,lost
+actor-critic,seeds-actor-critic-0,46,2,8447,lost
+actor-critic,seeds-actor-critic-0,56,2,8897,lost
+actor-critic,seeds-actor-critic-0,65,2,7902,lost
+actor-critic,seeds-actor-critic-0,42,2,5314,lost
+actor-critic,seeds-actor-critic-0,67,2,9321,lost
+actor-critic,seeds-actor-critic-0,64,2,8950,lost
+actor-critic,seeds-actor-critic-0,61,2,10203,lost
+actor-critic,seeds-actor-critic-0,76,3,7842,lost
+actor-critic,seeds-actor-critic-0,42,2,4650,lost
+actor-critic,seeds-actor-critic-0,60,2,6228,lost
+actor-critic,seeds-actor-critic-0,65,2,7281,lost
+actor-critic,seeds-actor-critic-0,55,2,6897,lost
+actor-critic,seeds-actor-critic-0,66,2,7658,lost
+actor-critic,seeds-actor-critic-0,48,2,6355,lost
+actor-critic,seeds-actor-critic-0,80,3,8284,lost
+actor-critic,seeds-actor-critic-0,70,3,8125,lost
+actor-critic,seeds-actor-critic-0,60,2,11200,lost
+actor-critic,seeds-actor-critic-0,32,1,3906,lost
+actor-critic,seeds-actor-critic-0,41,2,4477,lost
+actor-critic,seeds-actor-critic-0,77,3,9646,lost
+actor-critic,seeds-actor-critic-0,54,2,6470,lost
+actor-critic,seeds-actor-critic-0,43,2,6794,lost
+actor-critic,seeds-actor-critic-0,67,2,12505,lost
+actor-critic,seeds-actor-critic-0,43,2,5757,lost
+actor-critic,seeds-actor-critic-0,32,1,2453,lost
+actor-critic,seeds-actor-critic-0,74,3,8376,lost
+actor-critic,seeds-actor-critic-0,79,3,10324,lost
+actor-critic,seeds-actor-critic-0,67,2,8133,lost
+actor-critic,seeds-actor-critic-0,25,1,2171,lost
+actor-critic,seeds-actor-critic-0,33,1,3475,lost
+actor-critic,seeds-actor-critic-0,53,2,7124,lost
+actor-critic,seeds-actor-critic-0,47,2,5783,lost
+actor-critic,seeds-actor-critic-0,74,3,7990,lost
+actor-critic,seeds-actor-critic-0,58,2,6300,lost
+actor-critic,seeds-actor-critic-0,69,3,8483,lost
+actor-critic,seeds-actor-critic-0,62,2,6436,lost
+actor-critic,seeds-actor-critic-0,55,2,7317,lost
+actor-critic,seeds-actor-critic-1,74,3,7711,lost
+actor-critic,seeds-actor-critic-1,73,3,8838,lost
+actor-critic,seeds-actor-critic-1,43,2,4913,lost
+actor-critic,seeds-actor-critic-1,74,3,12960,lost
+actor-critic,seeds-actor-critic-1,48,2,8655,lost
+actor-critic,seeds-actor-critic-1,66,2,9271,lost
+actor-critic,seeds-actor-critic-1,43,2,7719,lost
+actor-critic,seeds-actor-critic-1,51,2,8816,lost
+actor-critic,seeds-actor-critic-1,37,1,4162,lost
+actor-critic,seeds-actor-critic-1,70,3,11607,lost
+actor-critic,seeds-actor-critic-1,39,1,5510,lost
+actor-critic,seeds-actor-critic-1,67,2,7756,lost
+actor-critic,seeds-actor-critic-1,51,2,5963,lost
+actor-critic,seeds-actor-critic-1,22,1,2330,lost
+actor-critic,seeds-actor-critic-1,52,2,12945,lost
+actor-critic,seeds-actor-critic-1,65,2,8679,lost
+actor-critic,seeds-actor-critic-1,38,1,8746,lost
+actor-critic,seeds-actor-critic-1,90,3,9611,lost
+actor-critic,seeds-actor-critic-1,35,1,3739,lost
+actor-critic,seeds-actor-critic-1,66,2,9056,lost
+actor-critic,seeds-actor-critic-1,39,1,4942,lost
+actor-critic,seeds-actor-critic-1,65,2,6538,lost
+actor-critic,seeds-actor-critic-1,58,2,6331,lost
+actor-critic,seeds-actor-critic-1,76,3,7594,lost
+actor-critic,seeds-actor-critic-1,43,2,10566,lost
+actor-critic,seeds-actor-critic-1,67,2,9211,lost
+actor-critic,seeds-actor-critic-1,39,1,5935,lost
+actor-critic,seeds-actor-critic-1,86,3,11784,lost
+actor-critic,seeds-actor-critic-1,75,3,9631,lost
+actor-critic,seeds-actor-critic-1,39,1,10995,lost
+actor-critic,seeds-actor-critic-1,47,2,11353,lost
+actor-critic,seeds-actor-critic-1,61,2,12533,lost
+actor-critic,seeds-actor-critic-1,66,2,10981,lost
+actor-critic,seeds-actor-critic-1,64,2,6465,lost
+actor-critic,seeds-actor-critic-1,46,2,7610,lost
+actor-critic,seeds-actor-critic-1,39,1,6743,lost
+actor-critic,seeds-actor-critic-1,56,2,7142,lost
+actor-critic,seeds-actor-critic-1,81,3,8057,lost
+actor-critic,seeds-actor-critic-1,72,3,8185,lost
+actor-critic,seeds-actor-critic-1,67,2,8798,lost
+actor-critic,seeds-actor-critic-1,53,2,7756,lost
+actor-critic,seeds-actor-critic-1,45,2,5461,lost
+actor-critic,seeds-actor-critic-1,52,2,5649,lost
+actor-critic,seeds-actor-critic-1,35,1,3506,lost
+actor-critic,seeds-actor-critic-1,63,2,6936,lost
+actor-critic,seeds-actor-critic-1,55,2,7428,lost
+actor-critic,seeds-actor-critic-1,66,2,7860,lost
+actor-critic,seeds-actor-critic-1,41,2,5404,lost
+actor-critic,seeds-actor-critic-1,84,3,9150,lost
+actor-critic,seeds-actor-critic-1,55,2,9003,lost
+actor-critic,seeds-actor-critic-1,35,1,5633,lost
+actor-critic,seeds-actor-critic-1,52,2,6888,lost
+actor-critic,seeds-actor-critic-1,64,2,11002,lost
+actor-critic,seeds-actor-critic-1,89,3,11143,lost
+actor-critic,seeds-actor-critic-1,53,2,6311,lost
+actor-critic,seeds-actor-critic-1,49,2,5622,lost
+actor-critic,seeds-actor-critic-1,48,2,10008,lost
+actor-critic,seeds-actor-critic-1,42,2,9533,lost
+actor-critic,seeds-actor-critic-1,67,2,7253,lost
+actor-critic,seeds-actor-critic-1,57,2,9724,lost
+actor-critic,seeds-actor-critic-1,64,2,9313,lost
+actor-critic,seeds-actor-critic-1,82,3,8064,lost
+actor-critic,seeds-actor-critic-1,44,2,6163,lost
+actor-critic,seeds-actor-critic-1,48,2,8917,lost
+actor-critic,seeds-actor-critic-1,44,2,5064,lost
+actor-critic,seeds-actor-critic-1,71,3,10347,lost
+actor-critic,seeds-actor-critic-1,66,2,11414,lost
+actor-critic,seeds-actor-critic-1,70,3,8926,lost
+actor-critic,seeds-actor-critic-1,74,3,8735,lost
+actor-critic,seeds-actor-critic-1,39,1,10306,lost
+actor-critic,seeds-actor-critic-1,76,3,7837,lost
+actor-critic,seeds-actor-critic-1,49,2,7097,lost
+actor-critic,seeds-actor-critic-1,70,3,9001,lost
+actor-critic,seeds-actor-critic-1,19,1,1895,lost
+actor-critic,seeds-actor-critic-1,67,2,7481,lost
+actor-critic,seeds-actor-critic-1,49,2,7302,lost
+actor-critic,seeds-actor-critic-1,31,1,3617,lost
+actor-critic,seeds-actor-critic-1,59,2,7892,lost
+actor-critic,seeds-actor-critic-1,65,2,12066,lost
+actor-critic,seeds-actor-critic-1,66,2,9305,lost
+actor-critic,seeds-actor-critic-1,43,2,6107,lost
+actor-critic,seeds-actor-critic-1,26,1,2814,lost
+actor-critic,seeds-actor-critic-1,50,2,7077,lost
+actor-critic,seeds-actor-critic-1,39,1,5739,lost
+actor-critic,seeds-actor-critic-1,39,1,6375,lost
+actor-critic,seeds-actor-critic-1,45,2,5419,lost
+actor-critic,seeds-actor-critic-1,61,2,9557,lost
+actor-critic,seeds-actor-critic-1,37,1,7316,lost
+actor-critic,seeds-actor-critic-1,19,1,2132,lost
+actor-critic,seeds-actor-critic-1,70,3,6390,lost
+actor-critic,seeds-actor-critic-1,47,2,8306,lost
+actor-critic,seeds-actor-critic-1,66,2,10302,lost
+actor-critic,seeds-actor-critic-1,72,3,8116,lost
+actor-critic,seeds-actor-critic-1,19,1,2111,lost
+actor-critic,seeds-actor-critic-1,58,2,6290,lost
+actor-critic,seeds-actor-critic-1,21,1,2603,lost
+actor-critic,seeds-actor-critic-1,53,2,8252,lost
+actor-critic,seeds-actor-critic-1,38,1,5755,lost
+actor-critic,seeds-actor-critic-1,65,2,8229,lost
+actor-critic,seeds-actor-critic-1,67,2,10063,lost
+actor-critic,seeds-actor-critic-2,94,4,9206,lost
+actor-critic,seeds-actor-critic-2,83,3,15068,lost
+actor-critic,seeds-actor-critic-2,73,3,10179,lost
+actor-critic,seeds-actor-critic-2,91,3,10572,lost
+actor-critic,seeds-actor-critic-2,74,3,7437,lost
+actor-critic,seeds-actor-critic-2,45,2,6194,lost
+actor-critic,seeds-actor-critic-2,38,1,5676,lost
+actor-critic,seeds-actor-critic-2,32,1,3414,lost
+actor-critic,seeds-actor-critic-2,90,3,9640,lost
+actor-critic,seeds-actor-critic-2,48,2,5982,lost
+actor-critic,seeds-actor-critic-2,61,2,6393,lost
+actor-critic,seeds-actor-critic-2,64,2,8020,lost
+actor-critic,seeds-actor-critic-2,49,2,6346,lost
+actor-critic,seeds-actor-critic-2,71,3,8411,lost
+actor-critic,seeds-actor-critic-2,76,3,7915,lost
+actor-critic,seeds-actor-critic-2,61,2,7883,lost
+actor-critic,seeds-actor-critic-2,56,2,6482,lost
+actor-critic,seeds-actor-critic-2,19,1,2051,lost
+actor-critic,seeds-actor-critic-2,66,2,8680,lost
+actor-critic,seeds-actor-critic-2,62,2,7389,lost
+actor-critic,seeds-actor-critic-2,31,1,3518,lost
+actor-critic,seeds-actor-critic-2,79,3,8206,lost
+actor-critic,seeds-actor-critic-2,85,3,7399,lost
+actor-critic,seeds-actor-critic-2,65,2,8228,lost
+actor-critic,seeds-actor-critic-2,61,2,6222,lost
+actor-critic,seeds-actor-critic-2,30,1,2822,lost
+actor-critic,seeds-actor-critic-2,65,2,8255,lost
+actor-critic,seeds-actor-critic-2,56,2,8134,lost
+actor-critic,seeds-actor-critic-2,50,2,8557,lost
+actor-critic,seeds-actor-critic-2,65,2,7818,lost
+actor-critic,seeds-actor-critic-2,72,3,13110,lost
+actor-critic,seeds-actor-critic-2,39,1,4965,lost
+actor-critic,seeds-actor-critic-2,48,2,6422,lost
+actor-critic,seeds-actor-critic-2,39,1,4905,lost
+actor-critic,seeds-actor-critic-2,76,3,8580,lost
+actor-critic,seeds-actor-critic-2,77,3,7285,lost
+actor-critic,seeds-actor-critic-2,34,1,3748,lost
+actor-critic,seeds-actor-critic-2,82,3,12791,lost
+actor-critic,seeds-actor-critic-2,41,2,8241,lost
+actor-critic,seeds-actor-critic-2,61,2,10523,lost
+actor-critic,seeds-actor-critic-2,88,3,15418,lost
+actor-critic,seeds-actor-critic-2,64,2,8054,lost
+actor-critic,seeds-actor-critic-2,62,2,8000,lost
+actor-critic,seeds-actor-critic-2,89,3,10219,lost
+actor-critic,seeds-actor-critic-2,60,2,7998,lost
+actor-critic,seeds-actor-critic-2,73,3,7857,lost
+actor-critic,seeds-actor-critic-2,63,2,8371,lost
+actor-critic,seeds-actor-critic-2,72,3,7759,lost
+actor-critic,seeds-actor-critic-2,67,2,7913,lost
+actor-critic,seeds-actor-critic-2,81,3,8163,lost
+actor-critic,seeds-actor-critic-2,51,2,5734,lost
+actor-critic,seeds-actor-critic-2,82,3,12869,lost
+actor-critic,seeds-actor-critic-2,66,2,8144,lost
+actor-critic,seeds-actor-critic-2,76,3,11654,lost
+actor-critic,seeds-actor-critic-2,67,2,10374,lost
+actor-critic,seeds-actor-critic-2,52,2,7195,lost
+actor-critic,seeds-actor-critic-2,67,2,10051,lost
+actor-critic,seeds-actor-critic-2,47,2,7371,lost
+actor-critic,seeds-actor-critic-2,74,3,8072,lost
+actor-critic,seeds-actor-critic-2,29,1,3014,lost
+actor-critic,seeds-actor-critic-2,74,3,7443,lost
+actor-critic,seeds-actor-critic-2,22,1,2365,lost
+actor-critic,seeds-actor-critic-2,54,2,7564,lost
+actor-critic,seeds-actor-critic-2,26,1,3734,lost
+actor-critic,seeds-actor-critic-2,67,2,9414,lost
+actor-critic,seeds-actor-critic-2,51,2,6047,lost
+actor-critic,seeds-actor-critic-2,91,3,10215,lost
+actor-critic,seeds-actor-critic-2,66,2,8465,lost
+actor-critic,seeds-actor-critic-2,64,2,7027,lost
+actor-critic,seeds-actor-critic-2,54,2,7474,lost
+actor-critic,seeds-actor-critic-2,87,3,11989,lost
+actor-critic,seeds-actor-critic-2,59,2,9439,lost
+actor-critic,seeds-actor-critic-2,67,2,6819,lost
+actor-critic,seeds-actor-critic-2,30,1,3542,lost
+actor-critic,seeds-actor-critic-2,69,3,8462,lost
+actor-critic,seeds-actor-critic-2,45,2,7251,lost
+actor-critic,seeds-actor-critic-2,42,2,7230,lost
+actor-critic,seeds-actor-critic-2,50,2,5063,lost
+actor-critic,seeds-actor-critic-2,71,3,9609,lost
+actor-critic,seeds-actor-critic-2,58,2,6699,lost
+actor-critic,seeds-actor-critic-2,34,1,3552,lost
+actor-critic,seeds-actor-critic-2,78,3,9970,lost
+actor-critic,seeds-actor-critic-2,31,1,3939,lost
+actor-critic,seeds-actor-critic-2,12,1,1323,lost
+actor-critic,seeds-actor-critic-2,67,2,9145,lost
+actor-critic,seeds-actor-critic-2,67,2,8559,lost
+actor-critic,seeds-actor-critic-2,34,1,4056,lost
+actor-critic,seeds-actor-critic-2,74,3,9681,lost
+actor-critic,seeds-actor-critic-2,81,3,8519,lost
+actor-critic,seeds-actor-critic-2,80,3,9600,lost
+actor-critic,seeds-actor-critic-2,88,3,8868,lost
+actor-critic,seeds-actor-critic-2,91,3,10019,lost
+actor-critic,seeds-actor-critic-2,82,3,9393,lost
+actor-critic,seeds-actor-critic-2,26,1,3100,lost
+actor-critic,seeds-actor-critic-2,82,3,8957,lost
+actor-critic,seeds-actor-critic-2,47,2,6308,lost
+actor-critic,seeds-actor-critic-2,56,2,6623,lost
+actor-critic,seeds-actor-critic-2,75,3,7841,lost
+actor-critic,seeds-actor-critic-2,63,2,8079,lost
+actor-critic,seeds-actor-critic-2,62,2,7814,lost
+PPO,seeds-ppo-0,81,3,9591,lost
+PPO,seeds-ppo-0,106,4,8682,lost
+PPO,seeds-ppo-0,115,4,11464,lost
+PPO,seeds-ppo-0,102,4,11075,lost
+PPO,seeds-ppo-0,84,3,7921,lost
+PPO,seeds-ppo-0,100,4,15962,lost
+PPO,seeds-ppo-0,114,4,10698,lost
+PPO,seeds-ppo-0,95,4,9999,lost
+PPO,seeds-ppo-0,91,3,16555,lost
+PPO,seeds-ppo-0,97,4,10548,lost
+PPO,seeds-ppo-0,24,1,2639,lost
+PPO,seeds-ppo-0,103,4,14132,lost
+PPO,seeds-ppo-0,94,4,12250,lost
+PPO,seeds-ppo-0,103,4,12115,lost
+PPO,seeds-ppo-0,96,4,10174,lost
+PPO,seeds-ppo-0,98,4,11869,lost
+PPO,seeds-ppo-0,100,4,12721,lost
+PPO,seeds-ppo-0,98,4,10831,lost
+PPO,seeds-ppo-0,85,3,13297,lost
+PPO,seeds-ppo-0,58,2,9916,lost
+PPO,seeds-ppo-0,94,4,12952,lost
+PPO,seeds-ppo-0,89,3,9695,lost
+PPO,seeds-ppo-0,39,1,18900,stuck
+PPO,seeds-ppo-0,84,3,12125,lost
+PPO,seeds-ppo-0,101,4,10547,lost
+PPO,seeds-ppo-0,86,3,8071,lost
+PPO,seeds-ppo-0,96,4,12292,lost
+PPO,seeds-ppo-0,104,4,10928,lost
+PPO,seeds-ppo-0,106,4,11262,lost
+PPO,seeds-ppo-0,97,4,10457,lost
+PPO,seeds-ppo-0,111,4,11298,lost
+PPO,seeds-ppo-0,97,4,12376,lost
+PPO,seeds-ppo-0,98,4,13596,lost
+PPO,seeds-ppo-0,90,3,14010,lost
+PPO,seeds-ppo-0,89,3,10933,lost
+PPO,seeds-ppo-0,98,4,10420,lost
+PPO,seeds-ppo-0,95,4,11846,lost
+PPO,seeds-ppo-0,111,4,14001,lost
+PPO,seeds-ppo-0,96,4,8780,lost
+PPO,seeds-ppo-0,91,3,11706,lost
+PPO,seeds-ppo-0,90,3,14426,lost
+PPO,seeds-ppo-0,104,4,12844,lost
+PPO,seeds-ppo-0,90,3,9532,lost
+PPO,seeds-ppo-0,91,3,10876,lost
+PPO,seeds-ppo-0,90,3,10232,lost
+PPO,seeds-ppo-0,104,4,13809,lost
+PPO,seeds-ppo-0,109,4,11144,lost
+PPO,seeds-ppo-0,109,4,11083,lost
+PPO,seeds-ppo-0,107,4,11940,lost
+PPO,seeds-ppo-0,91,3,9852,lost
+PPO,seeds-ppo-0,104,4,9733,lost
+PPO,seeds-ppo-0,91,3,10540,lost
+PPO,seeds-ppo-0,88,3,9459,lost
+PPO,seeds-ppo-0,95,4,10624,lost
+PPO,seeds-ppo-0,109,4,15807,lost
+PPO,seeds-ppo-0,102,4,12640,lost
+PPO,seeds-ppo-0,95,4,11119,lost
+PPO,seeds-ppo-0,101,4,9122,lost
+PPO,seeds-ppo-0,104,4,13505,lost
+PPO,seeds-ppo-0,85,3,11109,lost
+PPO,seeds-ppo-0,98,4,10220,lost
+PPO,seeds-ppo-0,106,4,12009,lost
+PPO,seeds-ppo-0,99,4,10075,lost
+PPO,seeds-ppo-0,114,4,11960,lost
+PPO,seeds-ppo-0,96,4,9780,lost
+PPO,seeds-ppo-0,97,4,13115,lost
+PPO,seeds-ppo-0,104,4,10124,lost
+PPO,seeds-ppo-0,101,4,13776,lost
+PPO,seeds-ppo-0,94,4,10190,lost
+PPO,seeds-ppo-0,98,4,14909,lost
+PPO,seeds-ppo-0,90,3,9881,lost
+PPO,seeds-ppo-0,104,4,9819,lost
+PPO,seeds-ppo-0,91,3,11637,lost
+PPO,seeds-ppo-0,91,3,10355,lost
+PPO,seeds-ppo-0,103,4,14979,lost
+PPO,seeds-ppo-0,101,4,11387,lost
+PPO,seeds-ppo-0,85,3,11350,lost
+PPO,seeds-ppo-0,89,3,10903,lost
+PPO,seeds-ppo-0,90,3,9149,lost
+PPO,seeds-ppo-0,111,4,11876,lost
+PPO,seeds-ppo-0,113,4,11942,lost
+PPO,seeds-ppo-0,88,3,9858,lost
+PPO,seeds-ppo-0,99,4,9838,lost
+PPO,seeds-ppo-0,82,3,10443,lost
+PPO,seeds-ppo-0,109,4,13349,lost
+PPO,seeds-ppo-0,114,4,9987,lost
+PPO,seeds-ppo-0,108,4,13524,lost
+PPO,seeds-ppo-0,109,4,8847,lost
+PPO,seeds-ppo-0,104,4,12224,lost
+PPO,seeds-ppo-0,99,4,16358,lost
+PPO,seeds-ppo-0,95,4,10560,lost
+PPO,seeds-ppo-0,109,4,13440,lost
+PPO,seeds-ppo-0,90,3,9503,lost
+PPO,seeds-ppo-0,105,4,13139,lost
+PPO,seeds-ppo-0,91,3,13980,lost
+PPO,seeds-ppo-0,73,3,8665,lost
+PPO,seeds-ppo-0,104,4,13160,lost
+PPO,seeds-ppo-0,97,4,10800,lost
+PPO,seeds-ppo-0,111,4,11861,lost
+PPO,seeds-ppo-0,124,5,15249,lost
+PPO,seeds-ppo-1,94,4,10512,lost
+PPO,seeds-ppo-1,86,3,10146,lost
+PPO,seeds-ppo-1,101,4,13895,lost
+PPO,seeds-ppo-1,102,4,10027,lost
+PPO,seeds-ppo-1,83,3,8560,lost
+PPO,seeds-ppo-1,90,3,10060,lost
+PPO,seeds-ppo-1,107,4,9910,lost
+PPO,seeds-ppo-1,98,4,11031,lost
+PPO,seeds-ppo-1,84,3,8590,lost
+PPO,seeds-ppo-1,105,4,12972,lost
+PPO,seeds-ppo-1,96,4,12742,lost
+PPO,seeds-ppo-1,29,1,2991,lost
+PPO,seeds-ppo-1,108,4,9201,lost
+PPO,seeds-ppo-1,97,4,16139,lost
+PPO,seeds-ppo-1,91,3,9153,lost
+PPO,seeds-ppo-1,108,4,9956,lost
+PPO,seeds-ppo-1,91,3,9418,lost
+PPO,seeds-ppo-1,95,4,12758,lost
+PPO,seeds-ppo-1,111,4,12958,lost
+PPO,seeds-ppo-1,87,3,8765,lost
+PPO,seeds-ppo-1,98,4,12535,lost
+PPO,seeds-ppo-1,91,3,10563,lost
+PPO,seeds-ppo-1,95,4,9777,lost
+PPO,seeds-ppo-1,105,4,15214,lost
+PPO,seeds-ppo-1,82,3,8902,lost
+PPO,seeds-ppo-1,82,3,8600,lost
+PPO,seeds-ppo-1,98,4,10005,lost
+PPO,seeds-ppo-1,71,3,9973,lost
+PPO,seeds-ppo-1,97,4,12723,lost
+PPO,seeds-ppo-1,97,4,11105,lost
+PPO,seeds-ppo-1,96,4,9717,lost
+PPO,seeds-ppo-1,112,4,12293,lost
+PPO,seeds-ppo-1,93,4,11333,lost
+PPO,seeds-ppo-1,98,4,11158,lost
+PPO,seeds-ppo-1,98,4,12161,lost
+PPO,seeds-ppo-1,100,4,13012,lost
+PPO,seeds-ppo-1,96,4,10195,lost
+PPO,seeds-ppo-1,100,4,9622,lost
+PPO,seeds-ppo-1,90,3,10198,lost
+PPO,seeds-ppo-1,107,4,14133,lost
+PPO,seeds-ppo-1,106,4,10751,lost
+PPO,seeds-ppo-1,113,4,11463,lost
+PPO,seeds-ppo-1,97,4,17121,lost
+PPO,seeds-ppo-1,107,4,13285,lost
+PPO,seeds-ppo-1,91,3,11558,lost
+PPO,seeds-ppo-1,96,4,12403,lost
+PPO,seeds-ppo-1,80,3,9397,lost
+PPO,seeds-ppo-1,83,3,8056,lost
+PPO,seeds-ppo-1,99,4,18198,lost
+PPO,seeds-ppo-1,111,4,13514,lost
+PPO,seeds-ppo-1,90,3,10396,lost
+PPO,seeds-ppo-1,109,4,10839,lost
+PPO,seeds-ppo-1,113,4,12730,lost
+PPO,seeds-ppo-1,94,4,9516,lost
+PPO,seeds-ppo-1,88,3,8624,lost
+PPO,seeds-ppo-1,100,4,11685,lost
+PPO,seeds-ppo-1,105,4,9178,lost
+PPO,seeds-ppo-1,107,4,13111,lost
+PPO,seeds-ppo-1,104,4,14758,lost
+PPO,seeds-ppo-1,111,4,10744,lost
+PPO,seeds-ppo-1,109,4,11123,lost
+PPO,seeds-ppo-1,96,4,10954,lost
+PPO,seeds-ppo-1,99,4,11173,lost
+PPO,seeds-ppo-1,105,4,10218,lost
+PPO,seeds-ppo-1,91,3,10247,lost
+PPO,seeds-ppo-1,91,3,10588,lost
+PPO,seeds-ppo-1,109,4,11062,lost
+PPO,seeds-ppo-1,90,3,9030,lost
+PPO,seeds-ppo-1,97,4,11417,lost
+PPO,seeds-ppo-1,95,4,11640,lost
+PPO,seeds-ppo-1,102,4,10050,lost
+PPO,seeds-ppo-1,94,4,8963,lost
+PPO,seeds-ppo-1,110,4,13797,lost
+PPO,seeds-ppo-1,94,4,9728,lost
+PPO,seeds-ppo-1,84,3,8960,lost
+PPO,seeds-ppo-1,89,3,11066,lost
+PPO,seeds-ppo-1,94,4,10715,lost
+PPO,seeds-ppo-1,93,4,13468,lost
+PPO,seeds-ppo-1,108,4,9381,lost
+PPO,seeds-ppo-1,104,4,11344,lost
+PPO,seeds-ppo-1,114,4,15930,lost
+PPO,seeds-ppo-1,109,4,10153,lost
+PPO,seeds-ppo-1,108,4,11244,lost
+PPO,seeds-ppo-1,109,4,13931,lost
+PPO,seeds-ppo-1,116,4,10754,lost
+PPO,seeds-ppo-1,93,4,11530,lost
+PPO,seeds-ppo-1,109,4,11328,lost
+PPO,seeds-ppo-1,25,1,2836,lost
+PPO,seeds-ppo-1,102,4,13500,lost
+PPO,seeds-ppo-1,93,4,12477,lost
+PPO,seeds-ppo-1,87,3,10244,lost
+PPO,seeds-ppo-1,102,4,10706,lost
+PPO,seeds-ppo-1,94,4,11496,lost
+PPO,seeds-ppo-1,110,4,12781,lost
+PPO,seeds-ppo-1,113,4,12442,lost
+PPO,seeds-ppo-1,103,4,11311,lost
+PPO,seeds-ppo-1,93,4,11008,lost
+PPO,seeds-ppo-1,94,4,10541,lost
+PPO,seeds-ppo-1,102,4,12885,lost
+PPO,seeds-ppo-1,105,4,11917,lost
+PPO,seeds-ppo-2,88,3,11511,lost
+PPO,seeds-ppo-2,102,4,12238,lost
+PPO,seeds-ppo-2,78,3,9262,lost
+PPO,seeds-ppo-2,100,4,11280,lost
+PPO,seeds-ppo-2,89,3,9591,lost
+PPO,seeds-ppo-2,83,3,10800,lost
+PPO,seeds-ppo-2,88,3,9200,lost
+PPO,seeds-ppo-2,103,4,10179,lost
+PPO,seeds-ppo-2,84,3,7960,lost
+PPO,seeds-ppo-2,87,3,9883,lost
+PPO,seeds-ppo-2,84,3,8901,lost
+PPO,seeds-ppo-2,87,3,8657,lost
+PPO,seeds-ppo-2,94,4,10088,lost
+PPO,seeds-ppo-2,100,4,13271,lost
+PPO,seeds-ppo-2,97,4,11089,lost
+PPO,seeds-ppo-2,78,3,8371,lost
+PPO,seeds-ppo-2,113,4,10866,lost
+PPO,seeds-ppo-2,101,4,9778,lost
+PPO,seeds-ppo-2,84,3,10688,lost
+PPO,seeds-ppo-2,108,4,10714,lost
+PPO,seeds-ppo-2,91,3,9621,lost
+PPO,seeds-ppo-2,78,3,9468,lost
+PPO,seeds-ppo-2,107,4,10708,lost
+PPO,seeds-ppo-2,80,3,10125,lost
+PPO,seeds-ppo-2,99,4,10693,lost
+PPO,seeds-ppo-2,95,4,14210,lost
+PPO,seeds-ppo-2,91,3,8066,lost
+PPO,seeds-ppo-2,89,3,9190,lost
+PPO,seeds-ppo-2,90,3,9470,lost
+PPO,seeds-ppo-2,107,4,12917,lost
+PPO,seeds-ppo-2,112,4,11056,lost
+PPO,seeds-ppo-2,85,3,9818,lost
+PPO,seeds-ppo-2,97,4,12465,lost
+PPO,seeds-ppo-2,107,4,13387,lost
+PPO,seeds-ppo-2,99,4,11160,lost
+PPO,seeds-ppo-2,81,3,9619,lost
+PPO,seeds-ppo-2,103,4,12318,lost
+PPO,seeds-ppo-2,119,4,12924,lost
+PPO,seeds-ppo-2,86,3,9373,lost
+PPO,seeds-ppo-2,108,4,11609,lost
+PPO,seeds-ppo-2,104,4,10968,lost
+PPO,seeds-ppo-2,99,4,9506,lost
+PPO,seeds-ppo-2,100,4,10883,lost
+PPO,seeds-ppo-2,110,4,10950,lost
+PPO,seeds-ppo-2,110,4,12541,lost
+PPO,seeds-ppo-2,94,4,9791,lost
+PPO,seeds-ppo-2,85,3,12252,lost
+PPO,seeds-ppo-2,91,3,9394,lost
+PPO,seeds-ppo-2,91,3,8794,lost
+PPO,seeds-ppo-2,88,3,10394,lost
+PPO,seeds-ppo-2,94,4,11278,lost
+PPO,seeds-ppo-2,115,4,10662,lost
+PPO,seeds-ppo-2,93,4,12095,lost
+PPO,seeds-ppo-2,94,4,10318,lost
+PPO,seeds-ppo-2,97,4,10137,lost
+PPO,seeds-ppo-2,109,4,11590,lost
+PPO,seeds-ppo-2,106,4,10752,lost
+PPO,seeds-ppo-2,27,1,3148,lost
+PPO,seeds-ppo-2,95,4,12055,lost
+PPO,seeds-ppo-2,87,3,7659,lost
+PPO,seeds-ppo-2,87,3,9458,lost
+PPO,seeds-ppo-2,116,4,10605,lost
+PPO,seeds-ppo-2,95,4,10091,lost
+PPO,seeds-ppo-2,111,4,11098,lost
+PPO,seeds-ppo-2,100,4,14131,lost
+PPO,seeds-ppo-2,104,4,10310,lost
+PPO,seeds-ppo-2,99,4,10773,lost
+PPO,seeds-ppo-2,97,4,9744,lost
+PPO,seeds-ppo-2,103,4,13220,lost
+PPO,seeds-ppo-2,94,4,8929,lost
+PPO,seeds-ppo-2,95,4,13647,lost
+PPO,seeds-ppo-2,108,4,12107,lost
+PPO,seeds-ppo-2,82,3,8651,lost
+PPO,seeds-ppo-2,84,3,11555,lost
+PPO,seeds-ppo-2,85,3,8111,lost
+PPO,seeds-ppo-2,95,4,11452,lost
+PPO,seeds-ppo-2,83,3,10846,lost
+PPO,seeds-ppo-2,94,4,11249,lost
+PPO,seeds-ppo-2,102,4,10811,lost
+PPO,seeds-ppo-2,81,3,8659,lost
+PPO,seeds-ppo-2,91,3,9514,lost
+PPO,seeds-ppo-2,95,4,10369,lost
+PPO,seeds-ppo-2,96,4,9909,lost
+PPO,seeds-ppo-2,85,3,9646,lost
+PPO,seeds-ppo-2,90,3,11623,lost
+PPO,seeds-ppo-2,85,3,8956,lost
+PPO,seeds-ppo-2,95,4,8616,lost
+PPO,seeds-ppo-2,117,4,15158,lost
+PPO,seeds-ppo-2,95,4,10993,lost
+PPO,seeds-ppo-2,34,1,3514,lost
+PPO,seeds-ppo-2,87,3,9856,lost
+PPO,seeds-ppo-2,94,4,9535,lost
+PPO,seeds-ppo-2,96,4,11601,lost
+PPO,seeds-ppo-2,94,4,11697,lost
+PPO,seeds-ppo-2,100,4,13277,lost
+PPO,seeds-ppo-2,90,3,8846,lost
+PPO,seeds-ppo-2,81,3,8439,lost
+PPO,seeds-ppo-2,103,4,10240,lost
+PPO,seeds-ppo-2,100,4,9134,lost
+PPO,seeds-ppo-2,86,3,9249,lost
+library PPO,seeds-library-ppo-0,105,4,9570,lost
+library PPO,seeds-library-ppo-0,88,3,10402,lost
+library PPO,seeds-library-ppo-0,89,3,11886,lost
+library PPO,seeds-library-ppo-0,95,4,15307,lost
+library PPO,seeds-library-ppo-0,98,4,13195,lost
+library PPO,seeds-library-ppo-0,85,3,8998,lost
+library PPO,seeds-library-ppo-0,100,4,8567,lost
+library PPO,seeds-library-ppo-0,86,3,10551,lost
+library PPO,seeds-library-ppo-0,110,4,10883,lost
+library PPO,seeds-library-ppo-0,94,4,13502,lost
+library PPO,seeds-library-ppo-0,101,4,14266,lost
+library PPO,seeds-library-ppo-0,94,4,10665,lost
+library PPO,seeds-library-ppo-0,89,3,10066,lost
+library PPO,seeds-library-ppo-0,95,4,14073,lost
+library PPO,seeds-library-ppo-0,86,3,8756,lost
+library PPO,seeds-library-ppo-0,88,3,15697,lost
+library PPO,seeds-library-ppo-0,109,4,11634,lost
+library PPO,seeds-library-ppo-0,97,4,10404,lost
+library PPO,seeds-library-ppo-0,99,4,14212,lost
+library PPO,seeds-library-ppo-0,114,4,13651,lost
+library PPO,seeds-library-ppo-0,94,4,10531,lost
+library PPO,seeds-library-ppo-0,81,3,17473,lost
+library PPO,seeds-library-ppo-0,98,4,8806,lost
+library PPO,seeds-library-ppo-0,99,4,9772,lost
+library PPO,seeds-library-ppo-0,109,4,13014,lost
+library PPO,seeds-library-ppo-0,80,3,8980,lost
+library PPO,seeds-library-ppo-0,91,3,17113,lost
+library PPO,seeds-library-ppo-0,89,3,9762,lost
+library PPO,seeds-library-ppo-0,83,3,11256,lost
+library PPO,seeds-library-ppo-0,112,4,10897,lost
+library PPO,seeds-library-ppo-0,39,1,16268,stuck
+library PPO,seeds-library-ppo-0,104,4,10425,lost
+library PPO,seeds-library-ppo-0,105,4,10476,lost
+library PPO,seeds-library-ppo-0,88,3,9356,lost
+library PPO,seeds-library-ppo-0,91,3,12104,lost
+library PPO,seeds-library-ppo-0,95,4,12932,lost
+library PPO,seeds-library-ppo-0,91,3,12264,lost
+library PPO,seeds-library-ppo-0,102,4,10405,lost
+library PPO,seeds-library-ppo-0,81,3,10838,lost
+library PPO,seeds-library-ppo-0,88,3,12126,lost
+library PPO,seeds-library-ppo-0,117,4,14212,lost
+library PPO,seeds-library-ppo-0,86,3,8785,lost
+library PPO,seeds-library-ppo-0,90,3,8440,lost
+library PPO,seeds-library-ppo-0,94,4,9512,lost
+library PPO,seeds-library-ppo-0,89,3,12579,lost
+library PPO,seeds-library-ppo-0,95,4,12463,lost
+library PPO,seeds-library-ppo-0,101,4,13468,lost
+library PPO,seeds-library-ppo-0,101,4,13534,lost
+library PPO,seeds-library-ppo-0,86,3,7527,lost
+library PPO,seeds-library-ppo-0,101,4,13690,lost
+library PPO,seeds-library-ppo-0,39,1,14627,stuck
+library PPO,seeds-library-ppo-0,113,4,11460,lost
+library PPO,seeds-library-ppo-0,86,3,8924,lost
+library PPO,seeds-library-ppo-0,84,3,12675,lost
+library PPO,seeds-library-ppo-0,106,4,12258,lost
+library PPO,seeds-library-ppo-0,109,4,13071,lost
+library PPO,seeds-library-ppo-0,85,3,8293,lost
+library PPO,seeds-library-ppo-0,99,4,12009,lost
+library PPO,seeds-library-ppo-0,89,3,12553,lost
+library PPO,seeds-library-ppo-0,87,3,12306,lost
+library PPO,seeds-library-ppo-0,93,4,9416,lost
+library PPO,seeds-library-ppo-0,94,4,12240,lost
+library PPO,seeds-library-ppo-0,90,3,10219,lost
+library PPO,seeds-library-ppo-0,105,4,11981,lost
+library PPO,seeds-library-ppo-0,109,4,12417,lost
+library PPO,seeds-library-ppo-0,96,4,11048,lost
+library PPO,seeds-library-ppo-0,100,4,12834,lost
+library PPO,seeds-library-ppo-0,102,4,12337,lost
+library PPO,seeds-library-ppo-0,89,3,14945,lost
+library PPO,seeds-library-ppo-0,109,4,10605,lost
+library PPO,seeds-library-ppo-0,107,4,14768,lost
+library PPO,seeds-library-ppo-0,82,3,11907,lost
+library PPO,seeds-library-ppo-0,111,4,11901,lost
+library PPO,seeds-library-ppo-0,108,4,11795,lost
+library PPO,seeds-library-ppo-0,89,3,9946,lost
+library PPO,seeds-library-ppo-0,97,4,8179,lost
+library PPO,seeds-library-ppo-0,103,4,11115,lost
+library PPO,seeds-library-ppo-0,88,3,9475,lost
+library PPO,seeds-library-ppo-0,88,3,8237,lost
+library PPO,seeds-library-ppo-0,110,4,9180,lost
+library PPO,seeds-library-ppo-0,91,3,9529,lost
+library PPO,seeds-library-ppo-0,115,4,15115,lost
+library PPO,seeds-library-ppo-0,89,3,12632,lost
+library PPO,seeds-library-ppo-0,106,4,10689,lost
+library PPO,seeds-library-ppo-0,67,2,17913,stuck
+library PPO,seeds-library-ppo-0,102,4,11408,lost
+library PPO,seeds-library-ppo-0,81,3,10831,lost
+library PPO,seeds-library-ppo-0,104,4,10236,lost
+library PPO,seeds-library-ppo-0,96,4,13898,lost
+library PPO,seeds-library-ppo-0,109,4,10529,lost
+library PPO,seeds-library-ppo-0,94,4,11291,lost
+library PPO,seeds-library-ppo-0,98,4,10980,lost
+library PPO,seeds-library-ppo-0,25,1,2001,lost
+library PPO,seeds-library-ppo-0,104,4,13309,lost
+library PPO,seeds-library-ppo-0,90,3,9910,lost
+library PPO,seeds-library-ppo-0,106,4,12233,lost
+library PPO,seeds-library-ppo-0,75,3,8362,lost
+library PPO,seeds-library-ppo-0,29,1,2442,lost
+library PPO,seeds-library-ppo-0,39,1,14847,stuck
+library PPO,seeds-library-ppo-0,118,4,11365,lost
+library PPO,seeds-library-ppo-1,100,4,13653,lost
+library PPO,seeds-library-ppo-1,104,4,12143,lost
+library PPO,seeds-library-ppo-1,96,4,10467,lost
+library PPO,seeds-library-ppo-1,99,4,11688,lost
+library PPO,seeds-library-ppo-1,96,4,12421,lost
+library PPO,seeds-library-ppo-1,109,4,12360,lost
+library PPO,seeds-library-ppo-1,98,4,9970,lost
+library PPO,seeds-library-ppo-1,107,4,15160,lost
+library PPO,seeds-library-ppo-1,91,3,12342,lost
+library PPO,seeds-library-ppo-1,105,4,12531,lost
+library PPO,seeds-library-ppo-1,78,3,8086,lost
+library PPO,seeds-library-ppo-1,91,3,9838,lost
+library PPO,seeds-library-ppo-1,91,3,12176,lost
+library PPO,seeds-library-ppo-1,102,4,9717,lost
+library PPO,seeds-library-ppo-1,100,4,14344,lost
+library PPO,seeds-library-ppo-1,95,4,11412,lost
+library PPO,seeds-library-ppo-1,97,4,10780,lost
+library PPO,seeds-library-ppo-1,101,4,17140,lost
+library PPO,seeds-library-ppo-1,88,3,9203,lost
+library PPO,seeds-library-ppo-1,89,3,9706,lost
+library PPO,seeds-library-ppo-1,91,3,9901,lost
+library PPO,seeds-library-ppo-1,95,4,12584,lost
+library PPO,seeds-library-ppo-1,107,4,16732,lost
+library PPO,seeds-library-ppo-1,98,4,15756,lost
+library PPO,seeds-library-ppo-1,100,4,20456,lost
+library PPO,seeds-library-ppo-1,87,3,9198,lost
+library PPO,seeds-library-ppo-1,110,4,11369,lost
+library PPO,seeds-library-ppo-1,97,4,12760,lost
+library PPO,seeds-library-ppo-1,102,4,15262,lost
+library PPO,seeds-library-ppo-1,103,4,10568,lost
+library PPO,seeds-library-ppo-1,105,4,9543,lost
+library PPO,seeds-library-ppo-1,101,4,13839,lost
+library PPO,seeds-library-ppo-1,95,4,13033,lost
+library PPO,seeds-library-ppo-1,95,4,11503,lost
+library PPO,seeds-library-ppo-1,103,4,11606,lost
+library PPO,seeds-library-ppo-1,31,1,2664,lost
+library PPO,seeds-library-ppo-1,91,3,10600,lost
+library PPO,seeds-library-ppo-1,103,4,11528,lost
+library PPO,seeds-library-ppo-1,95,4,12238,lost
+library PPO,seeds-library-ppo-1,89,3,21717,lost
+library PPO,seeds-library-ppo-1,108,4,13930,lost
+library PPO,seeds-library-ppo-1,93,4,10125,lost
+library PPO,seeds-library-ppo-1,94,4,11147,lost
+library PPO,seeds-library-ppo-1,88,3,13116,lost
+library PPO,seeds-library-ppo-1,99,4,15926,lost
+library PPO,seeds-library-ppo-1,106,4,16332,lost
+library PPO,seeds-library-ppo-1,105,4,23927,lost
+library PPO,seeds-library-ppo-1,87,3,9625,lost
+library PPO,seeds-library-ppo-1,100,4,14173,lost
+library PPO,seeds-library-ppo-1,85,3,9737,lost
+library PPO,seeds-library-ppo-1,95,4,12211,lost
+library PPO,seeds-library-ppo-1,93,4,10731,lost
+library PPO,seeds-library-ppo-1,91,3,9483,lost
+library PPO,seeds-library-ppo-1,105,4,12953,lost
+library PPO,seeds-library-ppo-1,94,4,11328,lost
+library PPO,seeds-library-ppo-1,105,4,11152,lost
+library PPO,seeds-library-ppo-1,91,3,11517,lost
+library PPO,seeds-library-ppo-1,91,3,10239,lost
+library PPO,seeds-library-ppo-1,111,4,11337,lost
+library PPO,seeds-library-ppo-1,108,4,12653,lost
+library PPO,seeds-library-ppo-1,89,3,11211,lost
+library PPO,seeds-library-ppo-1,83,3,12587,lost
+library PPO,seeds-library-ppo-1,95,4,12010,lost
+library PPO,seeds-library-ppo-1,85,3,10809,lost
+library PPO,seeds-library-ppo-1,100,4,13050,lost
+library PPO,seeds-library-ppo-1,86,3,9630,lost
+library PPO,seeds-library-ppo-1,71,3,9442,lost
+library PPO,seeds-library-ppo-1,84,3,11940,lost
+library PPO,seeds-library-ppo-1,90,3,11988,lost
+library PPO,seeds-library-ppo-1,90,3,12822,lost
+library PPO,seeds-library-ppo-1,95,4,9631,lost
+library PPO,seeds-library-ppo-1,101,4,14905,lost
+library PPO,seeds-library-ppo-1,114,4,11804,lost
+library PPO,seeds-library-ppo-1,85,3,10623,lost
+library PPO,seeds-library-ppo-1,97,4,11524,lost
+library PPO,seeds-library-ppo-1,91,3,12198,lost
+library PPO,seeds-library-ppo-1,82,3,10381,lost
+library PPO,seeds-library-ppo-1,23,1,1878,lost
+library PPO,seeds-library-ppo-1,101,4,12988,lost
+library PPO,seeds-library-ppo-1,99,4,12062,lost
+library PPO,seeds-library-ppo-1,93,4,15551,lost
+library PPO,seeds-library-ppo-1,86,3,9847,lost
+library PPO,seeds-library-ppo-1,106,4,12444,lost
+library PPO,seeds-library-ppo-1,86,3,9740,lost
+library PPO,seeds-library-ppo-1,87,3,14813,lost
+library PPO,seeds-library-ppo-1,89,3,12614,lost
+library PPO,seeds-library-ppo-1,91,3,11745,lost
+library PPO,seeds-library-ppo-1,95,4,10020,lost
+library PPO,seeds-library-ppo-1,98,4,15261,lost
+library PPO,seeds-library-ppo-1,98,4,10982,lost
+library PPO,seeds-library-ppo-1,87,3,10766,lost
+library PPO,seeds-library-ppo-1,83,3,9245,lost
+library PPO,seeds-library-ppo-1,85,3,8021,lost
+library PPO,seeds-library-ppo-1,101,4,20380,lost
+library PPO,seeds-library-ppo-1,95,4,10659,lost
+library PPO,seeds-library-ppo-1,90,3,17619,lost
+library PPO,seeds-library-ppo-1,87,3,12259,lost
+library PPO,seeds-library-ppo-1,86,3,11482,lost
+library PPO,seeds-library-ppo-1,91,3,10975,lost
+library PPO,seeds-library-ppo-1,110,4,13001,lost
+library PPO,seeds-library-ppo-2,81,3,8524,lost
+library PPO,seeds-library-ppo-2,97,4,10220,lost
+library PPO,seeds-library-ppo-2,94,4,15979,lost
+library PPO,seeds-library-ppo-2,78,3,12812,lost
+library PPO,seeds-library-ppo-2,77,3,15414,lost
+library PPO,seeds-library-ppo-2,84,3,9616,lost
+library PPO,seeds-library-ppo-2,87,3,12605,lost
+library PPO,seeds-library-ppo-2,83,3,7005,lost
+library PPO,seeds-library-ppo-2,96,4,14063,lost
+library PPO,seeds-library-ppo-2,88,3,9177,lost
+library PPO,seeds-library-ppo-2,83,3,10827,lost
+library PPO,seeds-library-ppo-2,85,3,16415,lost
+library PPO,seeds-library-ppo-2,88,3,11444,lost
+library PPO,seeds-library-ppo-2,87,3,8977,lost
+library PPO,seeds-library-ppo-2,83,3,9862,lost
+library PPO,seeds-library-ppo-2,85,3,10667,lost
+library PPO,seeds-library-ppo-2,87,3,10508,lost
+library PPO,seeds-library-ppo-2,91,3,16463,lost
+library PPO,seeds-library-ppo-2,95,4,11217,lost
+library PPO,seeds-library-ppo-2,96,4,10820,lost
+library PPO,seeds-library-ppo-2,83,3,7525,lost
+library PPO,seeds-library-ppo-2,87,3,11520,lost
+library PPO,seeds-library-ppo-2,90,3,15298,lost
+library PPO,seeds-library-ppo-2,72,3,12643,lost
+library PPO,seeds-library-ppo-2,94,4,11280,lost
+library PPO,seeds-library-ppo-2,88,3,12194,lost
+library PPO,seeds-library-ppo-2,90,3,12728,lost
+library PPO,seeds-library-ppo-2,70,3,6162,lost
+library PPO,seeds-library-ppo-2,86,3,10949,lost
+library PPO,seeds-library-ppo-2,82,3,15488,lost
+library PPO,seeds-library-ppo-2,35,1,4078,lost
+library PPO,seeds-library-ppo-2,105,4,11004,lost
+library PPO,seeds-library-ppo-2,91,3,12605,lost
+library PPO,seeds-library-ppo-2,101,4,22757,lost
+library PPO,seeds-library-ppo-2,93,4,11329,lost
+library PPO,seeds-library-ppo-2,89,3,11626,lost
+library PPO,seeds-library-ppo-2,97,4,15029,lost
+library PPO,seeds-library-ppo-2,81,3,15581,lost
+library PPO,seeds-library-ppo-2,60,2,13628,lost
+library PPO,seeds-library-ppo-2,86,3,10818,lost
+library PPO,seeds-library-ppo-2,91,3,10466,lost
+library PPO,seeds-library-ppo-2,71,3,12379,lost
+library PPO,seeds-library-ppo-2,95,4,15459,lost
+library PPO,seeds-library-ppo-2,109,4,15598,lost
+library PPO,seeds-library-ppo-2,104,4,11207,lost
+library PPO,seeds-library-ppo-2,88,3,11142,lost
+library PPO,seeds-library-ppo-2,89,3,11509,lost
+library PPO,seeds-library-ppo-2,90,3,18841,lost
+library PPO,seeds-library-ppo-2,89,3,9010,lost
+library PPO,seeds-library-ppo-2,85,3,11076,lost
+library PPO,seeds-library-ppo-2,90,3,9485,lost
+library PPO,seeds-library-ppo-2,79,3,7428,lost
+library PPO,seeds-library-ppo-2,79,3,12624,lost
+library PPO,seeds-library-ppo-2,85,3,21301,lost
+library PPO,seeds-library-ppo-2,112,4,13572,lost
+library PPO,seeds-library-ppo-2,88,3,12088,lost
+library PPO,seeds-library-ppo-2,81,3,18758,lost
+library PPO,seeds-library-ppo-2,77,3,8988,lost
+library PPO,seeds-library-ppo-2,79,3,10497,lost
+library PPO,seeds-library-ppo-2,90,3,14990,lost
+library PPO,seeds-library-ppo-2,87,3,11887,lost
+library PPO,seeds-library-ppo-2,87,3,9211,lost
+library PPO,seeds-library-ppo-2,90,3,14458,lost
+library PPO,seeds-library-ppo-2,90,3,9376,lost
+library PPO,seeds-library-ppo-2,90,3,12537,lost
+library PPO,seeds-library-ppo-2,79,3,10135,lost
+library PPO,seeds-library-ppo-2,23,1,2260,lost
+library PPO,seeds-library-ppo-2,84,3,14893,lost
+library PPO,seeds-library-ppo-2,83,3,9479,lost
+library PPO,seeds-library-ppo-2,95,4,9885,lost
+library PPO,seeds-library-ppo-2,94,4,11487,lost
+library PPO,seeds-library-ppo-2,93,4,10390,lost
+library PPO,seeds-library-ppo-2,91,3,11134,lost
+library PPO,seeds-library-ppo-2,87,3,10372,lost
+library PPO,seeds-library-ppo-2,84,3,17124,lost
+library PPO,seeds-library-ppo-2,75,3,15890,lost
+library PPO,seeds-library-ppo-2,90,3,9490,lost
+library PPO,seeds-library-ppo-2,78,3,11429,lost
+library PPO,seeds-library-ppo-2,88,3,11227,lost
+library PPO,seeds-library-ppo-2,72,3,8396,lost
+library PPO,seeds-library-ppo-2,83,3,16144,lost
+library PPO,seeds-library-ppo-2,91,3,12936,lost
+library PPO,seeds-library-ppo-2,86,3,11538,lost
+library PPO,seeds-library-ppo-2,95,4,14495,lost
+library PPO,seeds-library-ppo-2,73,3,9564,lost
+library PPO,seeds-library-ppo-2,90,3,14478,lost
+library PPO,seeds-library-ppo-2,94,4,14989,lost
+library PPO,seeds-library-ppo-2,87,3,10531,lost
+library PPO,seeds-library-ppo-2,96,4,15152,lost
+library PPO,seeds-library-ppo-2,83,3,11077,lost
+library PPO,seeds-library-ppo-2,97,4,14647,lost
+library PPO,seeds-library-ppo-2,91,3,9814,lost
+library PPO,seeds-library-ppo-2,83,3,11688,lost
+library PPO,seeds-library-ppo-2,88,3,11093,lost
+library PPO,seeds-library-ppo-2,87,3,11239,lost
+library PPO,seeds-library-ppo-2,95,4,11691,lost
+library PPO,seeds-library-ppo-2,88,3,9922,lost
+library PPO,seeds-library-ppo-2,87,3,14435,lost
+library PPO,seeds-library-ppo-2,79,3,9838,lost
+library PPO,seeds-library-ppo-2,93,4,11228,lost

@@ -1,0 +1,48 @@
+[project]
+name = "brick-breaker-rl"
+version = "1.0.0"
+description = "The project from Reinforcement Learning with Python for Beginners"
+requires-python = ">=3.12"
+dependencies = [
+    "gymnasium>=1.4.0",
+    "matplotlib>=3.11.2",
+    "numpy>=2.5.4",
+    "pygame-ce>=2.5.8",
+    "stable-baselines3>=2.9.2",
+    "torch>=2.15.0",
+]
+
+[tool.uv]
+package = false
+
+[tool.ruff]
+line-length = 74
+src = ["final-project"]
+# Files the book breaks on purpose so that Python cannot even read them.
+extend-exclude = ["extras/ch04-paddle/no_colon.py"]
+
+[tool.ruff.lint]
+extend-select = ["E501", "I"]
+# RUF012: Gymnasium environments declare metadata as a class dictionary.
+# RUF059: the book names every value step() returns, used or not.
+ignore = ["RUF012", "RUF059"]
+
+# The CPU-only PyTorch build: a far smaller download, and the networks in
+# this project are small enough that a graphics card would not help.
+[tool.uv.sources]
+torch = [{ index = "pytorch-cpu" }]
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
+
+# The extras folder holds the mistakes the book makes on purpose. Early
+# chapters keep a value in range with if statements, which the book
+# teaches before min() and max().
+[tool.ruff.lint.per-file-ignores]
+"extras/**" = ["F401", "F821", "PLR1730"]
+"chapters/**" = ["PLR1730"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["brickgame", "players", "training"]
